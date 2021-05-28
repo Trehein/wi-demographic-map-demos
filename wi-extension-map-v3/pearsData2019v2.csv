@@ -1,0 +1,1070 @@
+site_id,site_name,site_address,site_city,site_county,site_state,site_zip,site_latitude,site_longitude,site_setting,is_indirect,is_direct,is_pse
+18404,Ellsworth WIC,412 Kinne Street,Ellsworth,Pierce,WI,54011,44.733431,-92.484949,WIC clinics,1,1,0
+17458,Baldwin WIC,1960 8th Avenue,Baldwin,St. Croix,WI,54002,44.947918,-92.374017,WIC clinics,1,1,0
+18535,River Falls WIC,1234 Wasson Lane,River Falls,Pierce,WI,54022,44.844974,-92.608427,WIC clinics,1,1,0
+61957,Amery WIC,240 Elm Streeet,Amery,Polk,WI,54001,45.309056,-92.364658,WIC clinics,1,1,0
+61960,Resurrection Lutheran,1024 Shawano Ave,Green Bay,Brown,WI,54303,44.521974,-88.036264,,1,1,0
+58807,Trempealeau County Health Care Center,W20298 WI 121,Whitehall,Trempealeau,WI,54773,44.443778,-91.285758,,1,1,0
+62284,Portage Food Pantry,405 E. Howard Street,Portage,Columbia,WI,53901,43.545074,-89.455268,"Food assistance sites, food banks, and food pantries",1,0,1
+62287,Dodge County WIC Clinic,199 County Road DF,Juneau,Dodge,WI,53039,43.372221,-88.710157,WIC clinics,1,0,0
+18377,Beaver Dam Food Pantry,134 South Spring Street,Beaver Dam,Dodge,WI,53916,43.4550886,-88.8372018,"Food assistance sites, food banks, and food pantries",1,0,1
+17940,Keller Elementary School,1806 Bond Street,Green Bay,Brown,WI,54303,44.541013,-88.0657047,"Schools (K-12, elementary, middle, and high)",1,1,0
+17884,Fort Howard Elementary School,520 Dousman Street,Green Bay,Brown,WI,54303,44.5204475,-88.021354,"Schools (K-12, elementary, middle, and high)",1,1,0
+18709,Glenwood City WIC,128 East Elm Street,Glenwood City,St. Croix,WI,54013,45.0598509,-92.1710981,WIC clinics,1,0,0
+67239,Barron County Government Center,335 E Monroe Ave,Barron,Barron,WI,54812,,,"Other places people go to ""work""",1,0,0
+47304,Bethel Lutheran Church,N29280 Loesel Lane,Arcadia,Trempealeau,WI,54612,44.251711,-91.387699,,1,1,0
+37035,Jackson County Food Pantry - Gebhart Elementary,411 Gebhardt Road,Black River Falls,Jackson,WI,54615,44.281807,-90.842072,,1,1,0
+15015,Menomonee Falls Food Pantry,N85 W15382 Menomonee River Parkway,Menomonee Falls,Waukesha,WI,53051,43.17396,-88.10185,"Food assistance sites, food banks, and food pantries",1,1,0
+67164,Headstart Oconomowoc,815 S Concord Road,Oconomowoc,Waukesha,WI,53066,43.101197,-88.514912,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+15120,Pregnancy Help Center,234 N. Main Street,Rice Lake,Barron,WI,54868,45.5038293,-91.73359971,"Other places people go to ""learn""",1,1,0
+15008,Food Pantry of Waukesha County,1301 Sentry Drive,Waukesha,Waukesha,WI,53186,42.989739,-88.248898,"Food assistance sites, food banks, and food pantries",1,1,1
+15051,Sussex Outreach Services,N64 W23760 Main Street,Sussex,Waukesha,WI,53089,43.134258,-88.22016,Family resource centers,1,1,0
+67365,Bruce Elementary School,104 W.Washington Ave,Bruce,Rusk,WI,54819,,,"Schools (K-12, elementary, middle, and high)",1,1,0
+15101,School District of Mellen,420 South Main Street,Mellen,Ashland,WI,54546,46.32269348,-90.6606577,"Schools (K-12, elementary, middle, and high)",1,1,0
+15104,Bayfield School District,300 North 4th Street,Bayfield,Bayfield,WI,54814,46.815143,-90.819396,"Schools (K-12, elementary, middle, and high)",1,1,0
+67495,Northwestern Elementary,10465 US - 2,Poplar,Douglas,WI,54864,,,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+67555,Sr. Connections,1805 N. 16th St.,Superior,Douglas,WI,54880,46.719459,-92.103959,Congregate meal sites & other senior nutrition centers,1,0,0
+16535,Northern Lights Elementary,1201 N.28th St,Superior,Douglas,WI,54880,46.70829615,-92.09534623,"Schools (K-12, elementary, middle, and high)",1,1,1
+18726,Prescott WIC,206 Locust Street,Prescott,Pierce,WI,54021,44.750359,-92.800122,WIC clinics,1,0,0
+15007,Eagle Community Food Pantry,136 Waukesha Road,Eagle,Waukesha,WI,53119,42.879944,-88.475444,"Food assistance sites, food banks, and food pantries",1,0,0
+38770,Hartland Food Pantry,555 S Industrial Drive,Hartland,Waukesha,WI,53029,43.095724,-88.361139,"Food assistance sites, food banks, and food pantries",1,0,0
+38769,Kettle Moraine Food Pantry,705 W Tomlin Rd (Hwy E),Wales,Waukesha,WI,53183,42.98892,-88.385322,"Food assistance sites, food banks, and food pantries",1,0,0
+59147,Head Start Green Bay,1150 Bellevue St.,Green Bay,Brown,WI,54302,44.488843,-87.994905,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+38768,Kitchen Kupboard Food Pantry,211 Main Street (Mount Olive Church),Mukwonago,Waukesha,WI,53149,42.862103,-88.332725,"Food assistance sites, food banks, and food pantries",1,0,0
+38767,North Lake Food Pantry,W314 N7462 Highway 83,North Lake,Waukesha,WI,53029,43.154303,-88.370611,"Food assistance sites, food banks, and food pantries",1,0,0
+15020,Oconomowoc Food Pantry,W359 N5848 Brown Street,Oconomowoc,Waukesha,WI,53066,43.125565,-88.459707,"Food assistance sites, food banks, and food pantries",1,0,0
+17910,Danz Elementary School,2130 Basten Street,Green Bay,Brown,WI,54302,44.508763,-87.9687033,"Schools (K-12, elementary, middle, and high)",1,1,0
+38765,Pewaukee Food Pantry,"642 Main Street, PO Box 51",Pewaukee,Waukesha,WI,53072,43.075912,-88.254659,"Food assistance sites, food banks, and food pantries",1,0,0
+38764,St Agnes Food Pantry,12801 W Fairmount Avenue,Butler,Waukesha,WI,53007,43.107524,-88.071513,"Food assistance sites, food banks, and food pantries",1,1,0
+38762,Muskego Food Pantry,S81 W19150 Apollo Drive,Muskego,Waukesha,WI,53150,42.896477,-88.153621,"Food assistance sites, food banks, and food pantries",1,0,0
+38763,Mukwonago Food Pantry,325 Eagle Lake Avenue,Mukwonago,Waukesha,WI,53149,42.86668,-88.339487,"Food assistance sites, food banks, and food pantries",1,1,0
+14445,Stanley Boyd Head Start,303 E. Park St.,Boyd,Chippewa,WI,54726,44.94921704,-91.03857331,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+16531,Bryant Elementary School,1423 Central Ave,Superior,Douglas,WI,54880,46.6669437,-92.10049955,"Schools (K-12, elementary, middle, and high)",1,1,0
+38649,La Causa School,1643 S. 2nd St.,Milwaukee,Milwaukee,WI,53204,43.013016,-87.91289,"Schools (K-12, elementary, middle, and high)",1,1,1
+17918,MPS Bryant Elementary School,8718 W Thurston Ave,Milwaukee,Milwaukee,WI,53225,43.122006,-88.021935,"Schools (K-12, elementary, middle, and high)",1,1,0
+18649,Five Loaves Food Pantry,144 West Third Street,New Richmond,St. Croix,WI,54017,45.120074,-92.538678,"Food assistance sites, food banks, and food pantries",1,1,0
+18536,New Richmond WIC,1752 Dorset Lane,New Richmond,St. Croix,WI,54017,45.099596,-92.535057,WIC clinics,1,1,0
+18652,Spring Valley WIC,S520 Church Avenue,Spring Valley,Pierce,WI,54767,44.84301,-92.231555,WIC clinics,1,1,0
+19007,Midvale Elementary School,502 Caromar Dr,Madison,Dane,WI,53711,43.057353,-89.450111,"Schools (K-12, elementary, middle, and high)",1,1,0
+18999,Glendale Elementary School,1201 Tompkins Dr,Madison,Dane,WI,53716,43.05751,-89.31211,"Schools (K-12, elementary, middle, and high)",1,1,0
+62019,Nuestro Mundo Elementary School,902 Nichols Rd,Monona,Dane,WI,53716,43.062365,-89.3393,"Schools (K-12, elementary, middle, and high)",1,1,0
+27618,Mina Copeland Headstart,25182 WI-35,Siren,Burnett,WI,54872,45.830324,-92.364739,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+18158,MPS Marvin Pratt Elementary School,5131 N GREEN BAY AVENUE,Milwaukee,Milwaukee,WI,53209,43.110555,-87.933315,"Schools (K-12, elementary, middle, and high)",1,1,0
+14441,Cornell Head Start,400 Woodside Drive,Cornell,Chippewa,WI,54732,45.17101324,-91.14672571,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+17649,St. Joseph's Academy,1600 W Oklahoma Ave,Milwaukee,Milwaukee,WI,53215,42.989023,-87.934325,"Schools (K-12, elementary, middle, and high)",1,1,0
+38655,St. Francis High School,4225 S Lake Dr.,Milwaukee,Milwaukee,WI,53235,42.96768,-87.853542,"Schools (K-12, elementary, middle, and high)",1,1,0
+15010,Headstart,N4 W22000 Bluemound,Waukesha,Waukesha,WI,53186,43.036863,-88.186867,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+15043,Waukesha Public Schools - BANTING,2019 Butler Drive,Waukesha,Waukesha,WI,53186,43.028942,-88.20536,"Schools (K-12, elementary, middle, and high)",1,1,0
+15044,Waukesha Public Schools - BLAIR,301 Hyde Park Avenue,Waukesha,Waukesha,WI,53188,43.016074,-88.240597,"Schools (K-12, elementary, middle, and high)",1,1,0
+18656,Hudson WIC,1901 Vine Street,Hudson,St. Croix,WI,54017,44.978733,-92.732149,WIC clinics,1,1,0
+38761,Waukesha Co Aging & Disability Resource Center,514 Riverview Avenue,Waukesha,Waukesha,WI,53186,43.021436,-88.231566,Family resource centers,1,0,0
+43802,United Church of Christ Food Pantry,1001 Birch Drive,Roberts,St. Croix,WI,54023,44.993297,-92.548083,"Food assistance sites, food banks, and food pantries",1,0,0
+18532,Prescott Area Food Pantry,720 St Croix Street,Prescott,Pierce,WI,54021,44.7561695,-92.7974154,"Food assistance sites, food banks, and food pantries",1,1,0
+15518,Arcadia Elementary School,358 E. River Street,Arcadia,Trempealeau,WI,54612,44.2528926,-91.4951267,"Schools (K-12, elementary, middle, and high)",1,1,0
+62149,Ladysmith Elementary School,115 E 6th St. S,Ladysmith,Rusk,WI,54848,45.463894,-91.094149,,1,1,0
+14439,Chippewa Valley Alternative Schools,2820 East Park Avenue,Chippewa Falls,Chippewa,WI,54729,44.926739,-91.3869709,"Schools (K-12, elementary, middle, and high)",1,1,0
+55896,MPS Vieau Elementary,823 S. 4th Street,Milwaukee,Milwaukee,WI,53204,43.022685,-87.91578,"Schools (K-12, elementary, middle, and high)",1,1,0
+18750,Spring Valley Food Pantry,S520 Church Avenue,Spring Valley,Pierce,WI,54767,44.84301,-92.231555,WIC clinics,1,1,1
+14513,Prairie Ridge Early Learning,3031 Epiphany Lane,Eau Claire,Eau Claire,WI,54703,44.8312,-91.540806,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14514,Flynn Elementary,1430 Lee Street,Eau Claire,Eau Claire,WI,54701,44.803256,-91.479846,"Schools (K-12, elementary, middle, and high)",1,1,0
+14518,Longfellow Elementary,512 Balcom Avenue,Eau Claire,Eau Claire,WI,54703,44.819489,-91.490365,"Schools (K-12, elementary, middle, and high)",1,1,0
+14529,Western Dairyland: Head Start,35480 6th Street,Independence,Trempealeau,WI,54747,44.3561307,-91.4257357,Community organizations,1,1,0
+14528,Western Dairyland:  Fresh Start,418 Wisconsin Street,Eau Claire,Eau Claire,WI,54703,44.815627,-91.500852,Community organizations,1,1,0
+14626,Iowa County Aging and Disability Resource Center - ADRC,303 W. Chapel Street,Dodgeville,Iowa,WI,53533,42.96156935,-90.13399272,"Other places people go to ""learn""",1,0,0
+37424,Head Start SWCAP - Shullsburg,"Shullsburg Elementary School, 444 North Judgement Street",Shullsburg,Lafayette,WI,53586,42.5754113,-90.2297753,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,1
+44138,Head Start SWCAP - Dodgeville classroom,212 East Chapel Street,Dodgeville,Iowa,WI,53533,42.961893,-90.129021,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+69713,Benton Senior Meal Site,82 E. Main St,Benton,Lafayette,WI,53803,42.569076,-90.380078,Congregate meal sites & other senior nutrition centers,1,1,0
+14601,Boscobel Elementary School,200 Buchanan St.,Boscobel,Grant,WI,53805,43.132825,-90.702612,"Schools (K-12, elementary, middle, and high)",1,1,0
+37420,Head Start SWCAP - Fennimore,1505 Lafollette St,Fennimore,Grant,WI,53809,42.9777789,-90.6353192,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+67567,Flambeau Elementary School,"N4540 County Highway I, PO Box 86",Tony,Rusk,WI,54563,45.45197,-90.964443,"Schools (K-12, elementary, middle, and high)",1,1,0
+14959,School District of Janesville,527 S. Franklin Street,Janesville,Rock,WI,53548,42.67495488,-89.01920911,"Schools (K-12, elementary, middle, and high)",1,1,0
+14963,School District of Beloit,1633 Keeler Avenue,Beloit,Rock,WI,53511,42.512998,-89.015841,"Schools (K-12, elementary, middle, and high)",1,1,0
+14953,Community Health System-BACHC,74 Eclipse Boulevard,Beloit,Rock,WI,53511,42.5202602,-89.0280838,Health care clinics and hospitals,1,1,0
+69818,New Zion Baptist Church,1905 Mound Ave.,Beloit,Rock,WI,53511,42.525579,-89.0287,Faith-based centers/places of worship,1,0,0
+14952,"Caritas, Inc. Food Pantry",2840 Prairie Avenue,Beloit,Rock,WI,53511,42.54781715,-89.01149786,"Food assistance sites, food banks, and food pantries",1,1,1
+14831,Tri-County School District,409 South West Street,Plainfield,Waushara,WI,54966,44.2102063,-89.49560252,"Schools (K-12, elementary, middle, and high)",1,1,0
+61150,Redgranite Elementary School,513 Bonnell Ave.,Redgranite,Waushara,WI,54970,44.037324,-89.095607,"Schools (K-12, elementary, middle, and high)",1,1,0
+18931,Grand Marsh School,620 County Hwy E,Grand Marsh,Adams,WI,53936,43.8874751,-89.7019334,"Schools (K-12, elementary, middle, and high)",1,1,0
+61142,Wautoma A+ After School Program,300 16th Ave.,Wautoma,Waushara,WI,54982,44.073837,-89.31037,Before and after-school programs,1,0,0
+69838,Second Harvest Northern Lakes Food Bank,4503 Airpark Boulevard,Duluth,Saint Louis,MN,55811,46.833901,-92.169834,Mobile vending / food trucks,1,0,0
+15455,Gilman Elementary School,325 North Fifth Avenue,Gilman,Taylor,WI,54433,45.16884,-90.807063,"Schools (K-12, elementary, middle, and high)",1,1,1
+19291,Lake View Elementary,1802 Tennyson Lane,Madison,Dane,WI,53704,43.135756,-89.36209,"Schools (K-12, elementary, middle, and high)",1,1,0
+19343,Lindbergh Elementary School,4500 Kennedy Rd.,Madison,Dane,WI,53704,43.143683,-89.389213,Before and after-school programs,1,1,0
+37932,Menomonie Head Start,"3375 Kothlow Avenue, #10",Menomonie,Dunn,WI,54751,44.879124,-91.889492,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14448,Boys and Girls Club -Menomonie,615 24th Avenue West,Menomonie,Dunn,WI,54751,44.861298,-91.936102,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",1,1,0
+14727,La Crosse School District,807 East Avenue South,La Crosse,La Crosse,WI,54601,43.804176,-91.228753,"Schools (K-12, elementary, middle, and high)",1,1,1
+18989,Frank Allis Elementary School,4201 Buckeye Rd,Madison,Dane,WI,53716,43.076814,-89.320977,"Schools (K-12, elementary, middle, and high)",1,1,1
+15399,Westside Elementary School,1320 Buena Vista,Sun Prairie,Dane,WI,53590,43.1816305,-89.2357874,"Schools (K-12, elementary, middle, and high)",1,1,0
+18586,Mendota Elementary,"4002 School Rd, Madison",Madison,Dane,WI,53704,43.136916,-89.384837,"Schools (K-12, elementary, middle, and high)",1,1,0
+70063,Rice Lake Head Start,205 E. Orchard Beach,Rice Lake,Barron,WI,54868,45.486568,-91.725078,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+17628,Dallas Head Start,100 Dallas St,Dallas,Barron,WI,54733,45.258573,-91.814605,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14938,Al Behrman Elementary School,400 Mulberry,Baraboo,Sauk,WI,53913,43.458286,-89.738499,"Schools (K-12, elementary, middle, and high)",1,1,0
+17815,Unity Elementary School,1908 WI-46,Balsam Lake,Polk,WI,54810,45.484503,-92.4682,"Schools (K-12, elementary, middle, and high)",1,1,0
+15491,Lincoln Elementary,207 East Pearl Street,Merrillan,Jackson,WI,54754,44.451469,-90.839434,"Schools (K-12, elementary, middle, and high)",1,1,1
+15503,Jackson County Head Start,905 Alder Street,Black River Falls,Jackson,WI,54615,44.308762,-90.848552,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+70161,German Immersion Elementary,3778 N 82nd St,Milwaukee,Milwaukee,WI,53222,43.085276,-88.013585,"Schools (K-12, elementary, middle, and high)",1,1,0
+70195,Rome Farmers Market,Alpine Drive,Rome,Jefferson,WI,54457,44.220679,-89.784071,Farmers markets,1,0,0
+37920,Holy Rosary Church Food Pantry,521 Juneau Street,Kewaunee,Kewaunee,WI,54216,44.4577186,-87.5062329,"Food assistance sites, food banks, and food pantries",1,1,0
+18600,Kewaunee County Food Pantry,1528 Sunset Avenue,Algoma,Kewaunee,WI,54201,44.598511,-87.45339,,1,1,0
+17840,Ridgeland Elementary School,315 Main Street,Ridgeland,Dunn,WI,54763,45.204137,-91.893631,"Schools (K-12, elementary, middle, and high)",1,1,0
+17809,Turtle Lake Elementary School,205 N Oak St.,Turtle Lake,Barron,WI,54889,45.3976118,-92.1388209,"Schools (K-12, elementary, middle, and high)",1,1,0
+70216,Holy Trinity Church Food Pantry,510 Church Street,Casco,Kewaunee,WI,54205,44.552045,-87.617897,"Food assistance sites, food banks, and food pantries",1,0,0
+18641,Lakeshore CAP Food Pantry,131 South 3rd Avenue PO Box 791,Sturgeon Bay,Door,WI,54235,44.832959,-87.375491,"Food assistance sites, food banks, and food pantries",1,1,0
+37913,Holy Name of Mary Catholic Church (Maplewood Food Pantry),7491 County Road H,Maplewood,Door,WI,54235,44.7479281,-87.4721455,"Food assistance sites, food banks, and food pantries",1,1,0
+18607,MPS Victory Elementary School,2222 W Henry Ave,Milwaukee,Milwaukee,WI,53221,42.936871,-87.942721,"Schools (K-12, elementary, middle, and high)",1,1,0
+17885,MPS Bethune Academy,1535 N 35th Street,Milwaukee,Milwaukee,WI,53208,43.050797,-87.958513,"Schools (K-12, elementary, middle, and high)",1,1,0
+70288,Clarke Street School,2816 W Clarke St,Milwaukee,Milwaukee,WI,53210,43.066962,-87.949185,"Schools (K-12, elementary, middle, and high)",1,0,0
+38596,"Hunger Prevention Council of Pierce County, Inc.",PO Box 201,Ellsworth,Pierce,WI,54011,44.740142,-92.548289,"Food assistance sites, food banks, and food pantries",1,0,0
+39180,St. Croix County Health and Human Services,1752 Dorset Lane,New Richmond,St. Croix,WI,54017,45.099596,-92.535057,Community organizations,1,0,0
+15109,Woodland Elementary School,1050 E. Woodland Ave.,Barron,Barron,WI,54812,45.3980562,-91.8435103,"Schools (K-12, elementary, middle, and high)",1,1,0
+14535,Vilas Food Pantry,1011 Railroad Street,Eagle River,Vilas,WI,54521,45.929693,-89.256433,"Food assistance sites, food banks, and food pantries",1,0,0
+14542,Vilas Land O Lakes Food Pantry,6516 Olympic 76,Land O' Lakes,Vilas,WI,54540,46.161187,-89.220976,"Food assistance sites, food banks, and food pantries",1,0,0
+18171,Paul's Pantry,1529 Leo Frigo Way,Green Bay,Brown,WI,54302,44.524755,-87.995155,"Food assistance sites, food banks, and food pantries",1,1,0
+14576,ADVOCAP,19 W. 1st St.,Fond du Lac,Fond du Lac,WI,54935,43.77627582,-88.45149582,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+15497,Forrest Street Elementary,720 Forrest Street,Black River Falls,Jackson,WI,54615,44.304897,-90.850516,"Schools (K-12, elementary, middle, and high)",1,1,0
+15112,Tainter Elementary School (Rice Lake),2201 Carrie Ave.,Rice Lake,Barron,WI,54868,45.4777076,-91.7268954,"Schools (K-12, elementary, middle, and high)",1,1,0
+70340,Cumberland Middle School,980 8th Ave,Cumberland,Barron,WI,54829,45.528219,-92.031448,"Schools (K-12, elementary, middle, and high)",1,1,0
+70913,Deer Park Senior Site,121 Front Street,Deer Park,St. Croix,WI,54007,45.188234,-92.385806,,1,1,0
+30329,Family Resource Center School District of Superior,1201 N 28th St.,Superior,Douglas,WI,54880,46.7092795,-92.0950011,Family resource centers,1,0,0
+37656,Family Forum Head Start Center #2,518 Grand Avenue,Superior,Douglas,WI,54880,46.7318753,-92.0929701,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14371,Northwest Wisconsin Community Services Agency,1118 Tower Ave.,Superior,Douglas,WI,54880,46.724745,-92.103427,"Food assistance sites, food banks, and food pantries",1,0,0
+18003,NWCSA WIC,1805 North 14th St.,Superior,Douglas,WI,54880,46.7222048,-92.104402,Health care clinics and hospitals,1,0,0
+37658,Family Forum Inc. Project Center #1 Center and Home Based,1500 North 34th St.,Superior,Douglas,WI,54880,46.697994,-92.1002031,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,0,0
+14369,Faith United Methodist Church,1531 Hughitt Ave.,Superior,Douglas,WI,54880,46.72019829,-92.09956645,"Food assistance sites, food banks, and food pantries",1,1,0
+14554,Forest-Crandon School District,9750 Hwy 8 W,Crandon,Forest,WI,54520,45.571829,-88.928998,"Schools (K-12, elementary, middle, and high)",1,1,0
+17645,Frederic Elementary,305 Birch Street,Frederic,Polk,WI,54837,45.662874,-92.461137,"Schools (K-12, elementary, middle, and high)",1,1,0
+37400,"Ruby's Pantry, New Richmond",1245 Wall Street,New Richmond,St. Croix,WI,54017,45.134268,-92.549834,"Food assistance sites, food banks, and food pantries",1,0,0
+71051,Afton-Lakeland Elementary School,475 St Croix Trail,Lakeland,Washington,MN,55043,44.955739,-92.770987,"Schools (K-12, elementary, middle, and high)",1,0,0
+14440,Cornell Elementary,111 S. 4th St.,Cornell,Chippewa,WI,54732,45.16650536,-91.14764344,"Schools (K-12, elementary, middle, and high)",1,1,0
+14442,Holcombe Elementary,27331 262nd Avenue,Holcombe,Chippewa,WI,54745,45.2217995,-91.12097115,Before and after-school programs,1,1,0
+14435,Parkview Elementary,1130 Miles St.,Chippewa Falls,Chippewa,WI,54729,44.9324856,-91.40845879,"Schools (K-12, elementary, middle, and high)",1,1,0
+36301,St Francesca's Food Pantry,117 Allen St.,Chippewa Falls,Chippewa,WI,54729,44.9353484,-91.3871475,"Food assistance sites, food banks, and food pantries",1,1,0
+14434,Chippewa County WIC,711 N. Bridge St.,Chippewa Falls,Chippewa,WI,54729,44.940447,-91.397153,"Other places people go to ""learn""",1,1,0
+14541,Vilas Boulder Junction Food Pantry,10441 Main St,Boulder Junction,Vilas,WI,54512,46.112621,-89.647136,"Food assistance sites, food banks, and food pantries",1,1,0
+14437,Chippewa Falls Head Start,2820 East Park Avenue,Chippewa Falls,Chippewa,WI,54729,44.926739,-91.3869709,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14444,Salvation Army Food Pantry,521 N. Bridge St.,Chippewa Falls,Chippewa,WI,54729,44.93867506,-91.3950049,"Food assistance sites, food banks, and food pantries",1,0,0
+18466,Lake Superior Intermediate,1101 Binsfield Road,Ashland,Ashland,WI,54806,46.568572,-90.878948,"Schools (K-12, elementary, middle, and high)",1,1,0
+61003,Crandon Head start,508 S. Central Ave,Crandon,Forest,WI,54520,45.564799,-88.905596,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+47560,Forest County Office on Aging,200 E Madison St,Crandon,Forest,WI,54520,45.569233,-88.899328,Congregate meal sites & other senior nutrition centers,1,1,0
+14491,Prairie du Chien School District,400 S. Waucouta Ave.,Prairie du Chien,Crawford,WI,54821,43.056305,-91.145231,"Schools (K-12, elementary, middle, and high)",1,1,0
+14928,Doudna Elementary School,1900 Bohman Drive,Richland Center,Richland,WI,53581,43.3172472,-90.37837058,"Schools (K-12, elementary, middle, and high)",1,1,0
+62136,Ithaca Elementary School,Wisconsin 58,Richland Center,Richland,WI,53581,43.183575,-90.443066,,1,1,0
+15406,Abbotsford Elementary School,510 West Hemlock P.O. Box A,Abbotsford,Marathon,WI,54405,44.949491,-90.331929,"Schools (K-12, elementary, middle, and high)",1,1,0
+37421,Head Start SWCAP - Boscobel,400 Johnson Street,Boscobel,Grant,WI,53805,43.1408932,-90.6879379,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+69726,Plymouth Congregational Church,115 W Merrimac St,Dodgeville,Iowa,WI,53533,42.960801,-90.131955,,1,1,0
+15419,Colby Elementary School,202 West Dolf Street P.O. Box 80,Colby,Clark,WI,54421,44.917898,-90.32113,"Schools (K-12, elementary, middle, and high)",1,1,0
+17345,St. Paul's Lutheran Church,321 N Park Ave,Medford,Taylor,WI,54451,45.13987071,-90.35108772,Faith-based centers/places of worship,1,0,0
+46000,ICAA Head Start-Dorchester,"134 N. 4th St. Dorchester, WI 54425",Ladysmith,Rusk,WI,54848,45.464322,-91.104895,Community organizations,1,1,0
+14376,Superior School District,3025 Tower Ave.,Superior,Douglas,WI,54880,46.70348612,-92.10415242,"Schools (K-12, elementary, middle, and high)",1,1,0
+37422,Head Start SWCAP - Muscoda,800 North 6th Street,Muscoda,Grant,WI,53573,43.192162,-90.4366473,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+37425,Head Start SWCAP - Lancaster,"Winskill Elementary School, 925 West Maple Street",Lancaster,Grant,WI,53813,42.8484428,-90.7185396,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+18784,Adams Friendship Elementary,500 N Pierce Street,Adams,Adams,WI,53910,43.964934,-89.811332,"Schools (K-12, elementary, middle, and high)",1,1,0
+18416,"Mead Elementary, Wisconsin Rapids Public Schools",241 17th Avenue South,Wisconsin Rapids,Wood,WI,54495,44.394168,-89.844062,"Schools (K-12, elementary, middle, and high)",1,1,0
+18854,McKinley Elementary School,2926 Blaine St,Stevens Point,Portage,WI,54481,44.506865,-89.566238,"Schools (K-12, elementary, middle, and high)",1,1,0
+17420,South Wood County Emerging Pantry,331 12th Avenue South,Wisconsin Rapids,Wood,WI,54495,44.392492,-89.837779,"Food assistance sites, food banks, and food pantries",1,1,1
+45557,Boys and Girls Stevens Point,1800 East Ave,Stevens Point,Portage,WI,54481,44.51902,-89.571529,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",1,1,0
+17944,Shalom Center Food Pantry,8043 Sheridan Rd,Kenosha,Kenosha,WI,53143,42.557182,-87.8239849,"Food assistance sites, food banks, and food pantries",1,0,0
+17483,St. Vincent de Paul Society pantry,926 LaSalle St.,Racine,Racine,WI,53404,42.756718,-87.812275,"Food assistance sites, food banks, and food pantries",1,0,0
+14691,Sharing Center,25700 Wilmot Road,Trevor,Kenosha,WI,53179,42.514061,-88.115318,"Food assistance sites, food banks, and food pantries",1,1,0
+14944,Westside Elementary School,401 Alexander Avenue,Reedsburg,Sauk,WI,53959,43.529405,-90.024827,"Schools (K-12, elementary, middle, and high)",1,1,0
+14652,The Lord's Cupboard Food Pantry,115 Center Ave.,Park Falls,Price,WI,54552,45.690298,-90.401582,"Food assistance sites, food banks, and food pantries",1,0,0
+14687,RKCAA Kenosha Community Action Agency/WIC,2000 63rd St,Kenosha,Kenosha,WI,53140,42.577751,-87.833554,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14388,Webster School District,26428 Lakeland Avenue South,Webster,Burnett,WI,54893,45.875173,-92.364378,"Schools (K-12, elementary, middle, and high)",1,1,0
+43820,Siren Elementary School,24022 4th Avenue North,Siren,Burnett,WI,54872,45.78527,-92.377053,"Schools (K-12, elementary, middle, and high)",1,1,0
+18737,Hospitality Center at St Luke's Episcopal Church,614 Main St.,Racine,Racine,WI,53403,42.7261628,-87.7830275,Faith-based centers/places of worship,1,0,0
+17612,Love Inc. Pantry,466 S. Pine,Burlington,Racine,WI,53105,42.6697355,-88.2683257,"Food assistance sites, food banks, and food pantries",1,1,0
+71510,UW-Extension Kenosha,19600 75th St Suite 2,Kenosha,Kenosha,WI,53104,42.5687,-88.043262,WIC clinics,1,0,0
+18916,Longfellow Elementary,1021 S 21st St,Milwaukee,Milwaukee,WI,53204,43.019659,-87.94008,"Schools (K-12, elementary, middle, and high)",1,0,0
+71569,Amery Community Center,608 Harriman Ave,Amery,Polk,WI,54001,45.303773,-92.367379,,1,0,0
+18527,"Stanley WIC, Our Saviors Church",147 E 4th Ave,Stanley,Chippewa,WI,54768,44.9626564,-90.9355024,WIC clinics,1,1,0
+14432,Bloomer Food Pantry,808 Jackson,Bloomer,Chippewa,WI,54724,45.1083339,-91.4850631,"Food assistance sites, food banks, and food pantries",1,1,0
+18723,Lois and Tom Dolan Community Center,4355 W Bradley Road,Brown Deer,Milwaukee,WI,53223,43.162703,-87.966426,Community organizations,1,1,0
+27794,Brewery Point Senior Center,1244 N 9th St,Milwaukee,Milwaukee,WI,53205,43.046583,-87.922404,Congregate meal sites & other senior nutrition centers,1,1,0
+18417,Howe Elementary School (Rapids),221 8th Street North,Wisconsin Rapids,Wood,WI,54494,44.390625,-89.817402,"Schools (K-12, elementary, middle, and high)",1,1,0
+18446,Grove Elementary,471 Grove Avenue,Wisconsin Rapids,Wood,WI,54494,44.370358,-89.823175,"Schools (K-12, elementary, middle, and high)",1,1,0
+14433,Boys and Girls Club-Chippewa Falls,21 E. Grand Avenue,Chippewa Falls,Chippewa,WI,54729,44.93721363,-91.39275418,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",1,1,0
+36802,Blair Taylor School District,N31024 Elland Road,Blair,Trempealeau,WI,54616,44.2850682,-91.2097918,"Schools (K-12, elementary, middle, and high)",1,1,0
+15048,Waukesha Public Schools - WHITTIER,1103 S East Avenue,Waukesha,Waukesha,WI,53186,42.99237,-88.226152,"Schools (K-12, elementary, middle, and high)",1,1,0
+14556,Forest-Laona Public School,5216 Forest Avenue,Laona,Forest,WI,54541,45.5614467,-88.6683813,"Schools (K-12, elementary, middle, and high)",1,1,0
+17806,WI Dells Food Pantry,1000 Highway 13,Wisconsin Dells,Columbia,WI,53965,43.6308569,-89.7595453,"Food assistance sites, food banks, and food pantries",1,0,0
+14816,Gillett School District,208 West Main St,Gillett,Oconto,WI,54124,44.887705,-88.314027,"Schools (K-12, elementary, middle, and high)",1,1,0
+14811,Merryman Elementary School,611 Elizabeth Ave,Marinette,Marinette,WI,54143,45.088658,-87.61188407,"Schools (K-12, elementary, middle, and high)",1,1,0
+14805,Marinette Crivitz Food Pantry,305 Hall Ave,Crivitz,Marinette,WI,54114,45.2298911,-87.9992502,"Food assistance sites, food banks, and food pantries",1,1,0
+17901,Marinette County WIC Crivitz,808 Henriette Ave,Crivitz,Marinette,WI,54114,45.2330666,-88.0093658,WIC clinics,1,1,0
+27650,Kingdom Come Food Pantry,520 Locust Ave,Oconto Falls,Oconto,WI,54154,44.8858507,-88.1395031,"Food assistance sites, food banks, and food pantries",1,1,0
+14728,Central Intermediate School,418 N Pelham,Rhinelander,Oneida,WI,54501,45.642632,-89.409734,"Schools (K-12, elementary, middle, and high)",1,1,0
+15047,Waukesha Public Schools - HEYER,1209 Heyer Drive,Waukesha,Waukesha,WI,53186,42.989838,-88.210907,"Schools (K-12, elementary, middle, and high)",1,1,0
+14732,Northwoods Community Elementary School,9086 County Hwy K,Harshaw,Oneida,WI,54529,45.64508704,-89.67144853,"Schools (K-12, elementary, middle, and high)",1,1,0
+14735,Pelican Elementary School,3350 V. Hickey Road,Rhinelander,Oneida,WI,54501,45.624268,-89.368958,"Schools (K-12, elementary, middle, and high)",1,1,0
+14814,Wausaukee School District,N11941 Hwy 141,Wausaukee,Marinette,WI,54177,45.144795,-88.007914,"Schools (K-12, elementary, middle, and high)",1,1,0
+14804,Beecher-Pembine-Dunbar School,N18774 Sauld St,Pembine,Marinette,WI,54156,45.63524,-87.99095,"Schools (K-12, elementary, middle, and high)",1,1,0
+14812,Park Elementary School,1225 Hockridge St,Marinette,Marinette,WI,54153,45.094213,-87.650075,"Schools (K-12, elementary, middle, and high)",1,1,0
+14808,Garfield Elementary School,1615 Carney Blvd,Marinette,Marinette,WI,54143,45.09198105,-87.62881905,"Schools (K-12, elementary, middle, and high)",1,1,0
+14825,Suring Elementary School,411 East Algoma St,Suring,Oconto,WI,54174,44.99954518,-88.37553584,"Schools (K-12, elementary, middle, and high)",1,1,0
+15318,East Madison Community Center,8 Straubel Court,Madison,Dane,WI,53704,43.118879,-89.328855,Before and after-school programs,1,1,0
+17894,Sullivan Elementary School,1567 Deckner Avenue,Green Bay,Brown,WI,54302,44.5033199,-87.9895007,"Schools (K-12, elementary, middle, and high)",1,1,0
+14819,New View Industries,222 West Park St.,Gillett,Oconto,WI,54124,44.89184929,-88.31401457,"Other places people go to ""work""",1,1,0
+14823,Oconto Unified School District,810 Scherer Ave,Oconto,Oconto,WI,54153,44.87789594,-87.87000514,"Schools (K-12, elementary, middle, and high)",1,1,1
+15526,Independence Elementary,23786 Indee Boulevard,Independence,Trempealeau,WI,54747,44.3692984,-91.4227637,"Schools (K-12, elementary, middle, and high)",1,1,0
+14706,"Love, Inc.",480 S. Pine Street,Burlington,Racine,WI,53105,42.6698035,-88.2680134,"Food assistance sites, food banks, and food pantries",1,0,0
+14580,Chegwin Elementary School,109 E. Merrill Ave.,Fond du Lac,Fond du Lac,WI,54935,43.7813269,-88.44267905,"Schools (K-12, elementary, middle, and high)",1,1,0
+18990,Hawthorne Elementary School,3344 Concord Ave,Madison,Dane,WI,53714,43.111704,-89.328521,"Schools (K-12, elementary, middle, and high)",1,1,0
+72539,Trempealeau County Food Pantry,W20410 State Road 121,Whitehall,Trempealeau,WI,54773,44.443778,-91.285758,,1,1,1
+30161,Jefferson County WIC,1541 Annex Road,Jefferson,Jefferson,WI,53549,42.988962,-88.827144,WIC clinics,1,0,0
+14940,Lake Delton Elementary School,20 W. Delavan Street,Lake Delton,Sauk,WI,53940,43.58800927,-89.79440208,"Schools (K-12, elementary, middle, and high)",1,1,0
+14945,West Kindergarten Center,707 Center Street,Baraboo,Sauk,WI,53913,43.47222,-89.749399,"Schools (K-12, elementary, middle, and high)",1,1,0
+16532,Cooper Elementary,1807 Missouri Ave,Superior,Douglas,WI,54880,46.716702,-92.12310483,"Schools (K-12, elementary, middle, and high)",1,1,0
+16533,Lake Superior Elementary,6200 E.3rd St,Superior,Douglas,WI,54880,46.66304005,-92.00365066,"Schools (K-12, elementary, middle, and high)",1,1,0
+15146,Pepin County Health Services,"740-7th Ave W
+POB 39",Durand,Pepin,WI,54736,44.621961,-91.967449,Health care clinics and hospitals,1,1,0
+18215,Mondovi Central Lutheran Church,221 W Main  St,Mondovi,Buffalo,WI,54755,44.567591,-91.672717,Faith-based centers/places of worship,1,1,0
+69693,Pepin County Food Pantry,306 W Main St,Durand,Pepin,WI,54736,44.627945,-91.968641,"Food assistance sites, food banks, and food pantries",1,1,0
+37480,Pepin Lions Club,1301 Walnut Ct,Pepin,Pepin,WI,54759,44.4439514,-92.1589548,Congregate meal sites & other senior nutrition centers,1,1,0
+60763,Albert Kagel Elementary School,1210 W Mineral St,Milwaukee,Milwaukee,WI,53204,43.021679,-87.928512,"Schools (K-12, elementary, middle, and high)",1,1,0
+72728,Iron County Recycling Center,606 3rd Ave North,Hurley,Iron,WI,54534,46.455173,-90.183586,"Food assistance sites, food banks, and food pantries",1,0,0
+18587,Lapham Park Senior Center,1901 N 6th St,Milwaukee,Milwaukee,WI,53212,43.055209,-87.919023,Congregate meal sites & other senior nutrition centers,1,1,0
+14659,Hurley K-12 School,5503 Range View Road,Hurley,Iron,WI,54534,46.45773,-90.211789,"Schools (K-12, elementary, middle, and high)",1,1,0
+14661,Mercer K-12 school,2690 W. Margaret Street,Mercer,Iron,WI,54547,46.169655,-90.063776,"Schools (K-12, elementary, middle, and high)",1,1,0
+14658,Family Forum Head Start,205 5th Ave S,Hurley,Iron,WI,54534,46.451452,-90.186005,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+27315,Franklin Meadows Senior Site,7704 S 51st St,Franklin,Milwaukee,WI,53132,42.90535,-87.978677,Congregate meal sites & other senior nutrition centers,1,1,0
+15513,Arcadia Food Pantry,464 S St. Joseph Avenue,Arcadia,Trempealeau,WI,54612,44.251711,-91.387699,"Food assistance sites, food banks, and food pantries",1,0,0
+39204,Waukesha County Aging and Disability Resource Center,514 Riverview Avenue,Waukesha,Waukesha,WI,53186,43.021436,-88.231566,Congregate meal sites & other senior nutrition centers,1,0,0
+17837,Almena Elementary School,230 Lulu Avenue,Almena,Barron,WI,54805,45.4165386,-92.0336659,"Schools (K-12, elementary, middle, and high)",1,1,0
+17810,Cumberland Elementary School,1530 2nd Ave.,Cumberland,Barron,WI,54829,45.5384344,-92.0208927,"Schools (K-12, elementary, middle, and high)",1,1,0
+38542,College Court Senior Center,3334 W. Highland Blvd,Milwaukee,Milwaukee,WI,53208,43.045008,-87.956479,Congregate meal sites & other senior nutrition centers,1,1,0
+15105,Drummond Area School District,52440 Eastern Avenue,Drummond,Bayfield,WI,54832,46.335952,-91.255568,"Schools (K-12, elementary, middle, and high)",1,0,0
+15100,Ashland School District,2000 Beaser Avenue,Ashland,Ashland,WI,54806,46.56907278,-90.88573279,"Schools (K-12, elementary, middle, and high)",1,0,0
+18537,Marengo Valley School,62408 State Highway 112,Ashland,Ashland,WI,54806,46.443064,-90.873954,"Schools (K-12, elementary, middle, and high)",1,1,0
+71704,MPS Garland,3120 W Green Ave,Milwaukee,Milwaukee,WI,53221,42.939987,-87.952994,"Schools (K-12, elementary, middle, and high)",1,1,0
+15091,Butternut Schools,312 West Wisconsin,Butternut,Ashland,WI,54514,46.01766555,-90.49549674,"Schools (K-12, elementary, middle, and high)",1,1,0
+72908,Hurley Head Start,205 5TH AVE S,Hurley,Iron,WI,54534,46.448087,-90.185971,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,0,0
+18208,Bad River Head Start,53751 Elm Street,Odanah,Ashland,WI,54861,46.5964899,-90.6573923,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,0,0
+18742,MPS Lowell Elementary,4360 S 20th St,Milwaukee,Milwaukee,WI,53221,42.964704,-87.937637,"Schools (K-12, elementary, middle, and high)",1,1,0
+38650,St. Augustine,"2607 South 5th St. Milwaukee, WI 53207",Milwaukee,Milwaukee,WI,53207,42.996528,-87.917096,"Schools (K-12, elementary, middle, and high)",1,1,0
+30114,Glidden Elementary,64 S Grant Street,Glidden,Ashland,WI,54527,46.134331,-90.577039,"Schools (K-12, elementary, middle, and high)",1,1,0
+72977,Ashland Family Forum Head Start,301 13TH AVE E,Ashland,Ashland,WI,54806,46.59659,-90.867292,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,0,0
+14705,Homeless Assistance Leadership Organization,2000 DeKoven Avenue,Racine,Racine,WI,53403,42.707729,-87.806303,Emergency shelters and temporary housing sites,1,1,0
+36207,Gateway Racine,1001 Main St.,Racine,Racine,WI,53404,42.7211796,-87.7808775,Schools (colleges and universities),1,1,0
+37423,Head Start SWCAP - Platteville,"OE Gray School, 110 West Adams Street",Platteville,Grant,WI,53818,42.7381619,-90.4781195,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14603,Cassville Elementary School,715 East Amelia Avenue,Cassville,Grant,WI,53806,42.71134,-90.985296,"Schools (K-12, elementary, middle, and high)",1,1,0
+18486,MPS Greenfield Bilingual School,1711 S 35th Street,Milwaukee,Milwaukee,WI,53215,43.011764,-87.958198,"Schools (K-12, elementary, middle, and high)",1,1,0
+69707,Juda Elementary School,N2385 Spring Street,Juda,Green,WI,53550,42.564434,-89.507906,"Schools (K-12, elementary, middle, and high)",1,1,0
+69708,Iowa County Family Resource Center,115 W. Merrimac St.,Dodgeville,Iowa,WI,53533,42.960801,-90.131955,Before and after-school programs,1,1,0
+73013,Monroe Head Start,"Abraham Lincoln Elementary School, 2625 14th Ave, Monroe, WI 53566",Monroe,Green,WI,53566,42.612966,-89.656994,,1,1,0
+17243,Brule Head Start,5613 Hill Drive,Brule,Douglas,WI,54820,46.55949125,-91.5694065,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,0,0
+73098,Superior WIC,1805 N.14th,Superior,Douglas,WI,54880,46.722122,-92.103966,WIC clinics,1,0,0
+17662,superior middle school,3626 Hammond Ave,Superior,Douglas,WI,54880,46.6952988,-92.0984926,"Schools (K-12, elementary, middle, and high)",1,1,0
+73099,Family Forum Head Start Center #1,1500 N.34th St,Superior,Douglas,WI,54880,46.698783,-92.100287,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14517,Locust Lane Elementary,3245 Locust Lane,Eau Claire,Eau Claire,WI,54703,44.85344,-91.462736,"Schools (K-12, elementary, middle, and high)",1,1,0
+14507,Augusta Area School District,E19320 Bartig Road,Augusta,Eau Claire,WI,54722,44.726811,-91.212598,"Schools (K-12, elementary, middle, and high)",1,1,0
+14516,Lakeshore Elementary,711 Lake Street,Eau Claire,Eau Claire,WI,54701,44.807187,-91.514463,"Schools (K-12, elementary, middle, and high)",1,1,0
+14373,Senior Connections,1527 Tower Ave.,Superior,Douglas,WI,54880,46.72026294,-92.10402939,Congregate meal sites & other senior nutrition centers,1,1,0
+14718,Racine Unified School District,2220 Northwestern Avenue,Racine,Racine,WI,53404,42.73876929,-87.80891964,"Schools (K-12, elementary, middle, and high)",1,0,1
+15055,Workforce Development Center,892 Main Street,Pewaukee,Waukesha,WI,53072,43.069577,-88.254531,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",1,0,0
+61140,Riverview Elementary School,"525 S Water St,",Wautoma,Waushara,WI,54982,44.07019,-89.291505,"Schools (K-12, elementary, middle, and high)",1,1,0
+61143,Parkside School,300 16th Ave.,Wautoma,Waushara,WI,54982,44.073837,-89.31037,"Schools (K-12, elementary, middle, and high)",1,1,0
+17887,CAP Services Head Start Wautoma,205 E. Main Street,Wautoma,Waushara,WI,54982,44.073851,-89.283893,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14546,Florence St Vincent DePaul,400 Central Ave,Florence,Florence,WI,54121,45.922254,-88.249156,Faith-based centers/places of worship,1,1,0
+18515,"Cornell WIC, Our Saviors Church",201 S 6th St,Cornell,Chippewa,WI,54732,45.1660941,-91.1441962,Mobile education sites,1,1,0
+18280,Red Creek Elementary School,410 County Rd A,Black River Falls,Jackson,WI,54615,44.307144,-90.8518374,Before and after-school programs,1,1,0
+75642,Family Resource Center Adams,208 N Main Street,Adams,Adams,WI,53910,43.95466,-89.817393,Family resource centers,1,1,0
+73230,Adams Friendship Middle School,420 N Main Street,Adams,Adams,WI,53910,43.963544,-89.817519,"Schools (K-12, elementary, middle, and high)",1,1,0
+15002,West Bend School District - Head Start,737 3rd Ave.,West Bend,Washington,WI,53095,43.414084,-88.179489,"Schools (K-12, elementary, middle, and high)",1,1,0
+43639,Kettle Moraine YMCA,1111 W Washington St,West Bend,Washington,WI,53095,43.424863,-88.191015,"Cafeterias (not school, childcare, congregate meal site, worksite or restaurant)",1,0,0
+73703,Sycamore Tree Christian Child Care Center,310 N. Wilson Ave.,Hartford,Washington,WI,53027,43.320992,-88.362997,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,0,0
+27229,Scenic View Apts.,205 Slinger Road,Slinger,Washington,WI,53086,43.330482,-88.280866,Individual homes or public housing sites,1,0,0
+77509,Germantown Senior Center,W162N11960 Park Ave.,Germantown,Washington,WI,53022,43.234761,-88.110182,Congregate meal sites & other senior nutrition centers,1,0,0
+18235,Meadow Creek Apartments,1119 Roseland Dr.,Kewaskum,Washington,WI,53040,43.51776,-88.228727,Congregate meal sites & other senior nutrition centers,1,0,0
+77510,Jackson Community Center,N165W20330 Hickory Lane,Jackson,Washington,WI,53037,43.319827,-88.161043,Congregate meal sites & other senior nutrition centers,1,0,0
+27230,Meadowbrook Apts.,475 Meadowbrook Dr.,West Bend,Washington,WI,53090,43.429133,-88.197326,Individual homes or public housing sites,1,0,0
+77512,"Senior Citizens Activities, Inc.","2378 W. Washington Street, Suite A",West Bend,Washington,WI,53090,43.429284,-88.213156,Congregate meal sites & other senior nutrition centers,1,0,0
+18236,Harthaven Apartments,33 High St.,Hartford,Washington,WI,53027,43.315271,-88.34515,Congregate meal sites & other senior nutrition centers,1,0,0
+71711,MPS MLK School,3275 N 3rd St,Milwaukee,Milwaukee,WI,53212,43.078191,-87.914204,"Schools (K-12, elementary, middle, and high)",1,0,0
+73820,Andrew Douglas Elementary (MPS),"1618 W Keefe Ave, Milwaukee",Milwaukee,Milwaukee,WI,53206,43.082659,-87.931578,"Schools (K-12, elementary, middle, and high)",1,0,0
+17892,MPS Grantosa Drive School,4850 N 82nd Street,Milwaukee,Milwaukee,WI,53218,43.106086,-88.012237,"Schools (K-12, elementary, middle, and high)",1,0,0
+15045,Waukesha Public Schools - HADFIELD,733 Linden Street,Waukesha,Waukesha,WI,53186,43.009486,-88.217199,"Schools (K-12, elementary, middle, and high)",1,1,0
+73119,Balsam Lake WIC,100 Polk  County Plaza,Balsam Lake,Polk,WI,54810,45.454276,-92.467583,WIC clinics,1,1,0
+14973,Open Arms Free Clinic,205 E. Commerce Ct.,Elkhorn,Walworth,WI,53147,42.65201,-88.540959,Health care clinics and hospitals,1,0,0
+17896,Walworth County Food Pantry,205 E. Commerce Court,Elkhorn,Walworth,WI,53121,42.6520222,-88.5408291,"Food assistance sites, food banks, and food pantries",1,0,0
+14981,Harold Johnson Delavan Food Pantry,714 E. Walworth st.,Delavan,Walworth,WI,53115,42.632965,-88.639103,"Food assistance sites, food banks, and food pantries",1,0,0
+48183,Jefferson Elementary School,905 Harrison St.,Green Bay,Brown,WI,54303,44.528127,-88.020611,"Schools (K-12, elementary, middle, and high)",1,1,0
+70223,Legacy Center,26 W Grand,Chippewa Falls,Chippewa,WI,54729,44.936958,-91.393531,"Food assistance sites, food banks, and food pantries",1,1,0
+59920,Baraboo Head Start,1516 Lake St.,Baraboo,Sauk,WI,53913,43.460841,-89.736341,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+59918,Sauk Prairie Head Start,1906 North Street,Prairie du Sac,Sauk,WI,53578,43.295086,-89.743855,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+58666,Reedsburg Area Learning Center,400 Alexander Ave,Reedsburg,Sauk,WI,53959,43.529464,-90.025969,,1,1,0
+18744,Vernon Elementary,8518 22nd Ave.,Kenosha,Kenosha,WI,53143,42.5503554,-87.8361299,,1,1,0
+72188,The Sharing Center,25700 Wilmot Rd Hwy. C,Trevor,Kenosha,WI,53179,42.512998,-88.118245,"Food assistance sites, food banks, and food pantries",1,1,1
+18531,Pierce County Food Pantry,167 West Main Street,Ellsworth,Pierce,WI,54011,44.731801,-92.478652,"Food assistance sites, food banks, and food pantries",1,0,1
+17484,CAP Services Head Start,1640 W. River Dr,Stevens Point,Portage,WI,54481,44.51604149,-89.59109192,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+15046,Waukesha Public Schools - HAWTHORNE,1111 Maitland Drive,Waukesha,Waukesha,WI,53188,43.02618,-88.247356,"Schools (K-12, elementary, middle, and high)",1,1,0
+18888,Green Bay Area Public School District,200 South Broadway,Green Bay,Brown,WI,54303,44.5150277,-88.0230242,"Schools (K-12, elementary, middle, and high)",1,1,1
+15160,Boys and Girls Club,311 S. Oneida St.,Green Bay,Brown,WI,54303,44.520741,-88.0432243,"Other places people go to ""learn""",1,0,0
+36999,YMCA Afterschool Program,235 N. Jefferson St.,Green Bay,Brown,WI,54302,44.5150542,-88.0125845,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",1,0,0
+15171,Casa Alba,314 S. Madison St.,Green Bay,Brown,WI,54301,44.510057,-88.01392143,Family resource centers,1,1,0
+60494,Sojourner Family Peace Center,619 W Walnut,Milwaukee,Milwaukee,WI,53212,43.051849,-87.919324,Emergency shelters and temporary housing sites,1,0,0
+71707,MPS Barton,5700 W Green Tree Rd,Milwaukee,Milwaukee,WI,53223,43.142215,-87.983225,"Schools (K-12, elementary, middle, and high)",1,1,0
+74987,Woodlands School,3121 W State Street,Milwaukee,Milwaukee,WI,53208,43.042105,-87.954156,"Schools (K-12, elementary, middle, and high)",1,1,0
+14722,Wafer Food Pantry,403 Causeway Blvd,La Crosse,La Crosse,WI,54603,43.82535,-91.250533,"Food assistance sites, food banks, and food pantries",1,1,0
+44768,Hudson Backpack/Summer Food Program,1400 Carmichael Road,Hudson,St. Croix,WI,54016,44.985577,-92.717978,"Other places people go to ""shop"" for or otherwise access food to prepare and eat at home",1,1,0
+69706,Lafayette County Aging & Disability Resource Center,15701 County Road K,Darlington,Lafayette,WI,53530,42.69112,-90.134781,Community organizations,1,0,0
+17853,MPS Grant School,2920 West Grant Street,Milwaukee,Milwaukee,WI,53215,43.0058,-87.951015,"Schools (K-12, elementary, middle, and high)",1,1,0
+14600,Aging & Disability Resource Center of Grant County,8820 Hwy 36 & 61 South,Lancaster,Grant,WI,53813,43.834304,-90.7099098,Congregate meal sites & other senior nutrition centers,1,0,0
+44137,Aging & Disability Resource Center - Lafayette County,"15701 County Rd K, P.O.Box 71",Darlington,Lafayette,WI,53530,42.672516,-90.123012,"Other places people go to ""learn""",1,0,0
+59310,Reach Green Dane County Parent Council,N3150 Hwy 81,Monroe,Green,WI,53566,42.645233,-89.694959,,1,0,0
+71706,MPS Landcaster,4931 N 68th St,Milwaukee,Milwaukee,WI,53218,43.108322,-87.996757,"Schools (K-12, elementary, middle, and high)",1,1,0
+18156,MPS Browning School,5440 N 64TH ST,Milwaukee,Milwaukee,WI,53218,43.11735,-87.990347,"Schools (K-12, elementary, middle, and high)",1,1,0
+36061,Platteville Head Start,110 West Adams Street,Platteville,Grant,WI,53818,42.738127,-90.4779109,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+18717,Acelero Learning Cudahy North,5809 South Packard Avenue,Cudahy,Milwaukee,WI,53110,42.938307,-87.861395,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+47247,Acelero Head Start General Mitchell School,5950 S Illinois Ave,Cudahy,Milwaukee,WI,53110,42.936115,-87.873952,"Schools (K-12, elementary, middle, and high)",1,1,0
+18713,Acelero Learning Cudahy South,5885 South Packard Avenue,Cudahy,Milwaukee,WI,53110,42.93773,-87.860779,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+43988,Lyndon Station Elementary School,201 Hoehn Drive,Lyndon Station,Juneau,WI,53944,43.70900047,-89.8995614,"Schools (K-12, elementary, middle, and high)",1,1,0
+14666,Royall School District,1501 Academy Street,Elroy,Juneau,WI,53929,43.739942,-90.2729749,"Schools (K-12, elementary, middle, and high)",1,1,0
+18245,New Lisbon School Distirct,500 S. Forest Street,New Lisbon,Juneau,WI,53950,43.8761743,-90.1699965,"Schools (K-12, elementary, middle, and high)",1,1,0
+15450,Owen-Withee Elementary School,832 West 3rd Street,Owen,Clark,WI,54460,44.9511661,-90.5773409,"Schools (K-12, elementary, middle, and high)",1,1,0
+15431,Greenwood Elementary School,700 East Division Street,Greenwood,Clark,WI,54437,44.767234,-90.589628,"Schools (K-12, elementary, middle, and high)",1,1,0
+15426,Granton Elementary School,217 North Main Street,Granton,Clark,WI,54436,44.592434,-90.461868,"Schools (K-12, elementary, middle, and high)",1,1,0
+59943,Aging and Disability Resource Center of Clark County,517 Court Street,Neillsville,Clark,WI,54456,44.560298,-90.594653,Congregate meal sites & other senior nutrition centers,1,0,0
+75638,Thorp Senior Meal Site,116 N. Washington Street,Thorp,Clark,WI,54771,44.958213,-90.800479,Congregate meal sites & other senior nutrition centers,1,0,0
+75640,iLead Charter School,800 Grayside Ave.,Mauston,Juneau,WI,53948,43.787885,-90.088612,"Schools (K-12, elementary, middle, and high)",1,1,0
+14670,Necedah School District,1801 South Main Street,Necedah,Juneau,WI,54646,44.022728,-90.0696279,"Schools (K-12, elementary, middle, and high)",1,1,0
+75666,West Side Elementary,708 Loomis Dr.,Mauston,Juneau,WI,53948,43.796458,-90.08714,"Schools (K-12, elementary, middle, and high)",1,1,0
+75671,Grayside Elementary,510 Grayside Ave.,Mauston,Juneau,WI,53948,43.787985,-90.083855,"Schools (K-12, elementary, middle, and high)",1,1,0
+27306,Jo's Daycare North,4801 W North Ave,Milwaukee,Milwaukee,WI,53208,43.060276,-87.973813,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14567,Hayward Community School District,15930 W Fifth Street,Hayward,Sawyer,WI,54843,46.015575,-91.489787,"Schools (K-12, elementary, middle, and high)",1,1,1
+14570,LCO Ojibwe School,8575 Round Lake Rd,Hayward,Sawyer,WI,54843,45.946502,-91.357264,"Schools (K-12, elementary, middle, and high)",1,1,0
+14562,Winter School,6585 W Grove Street,Winter,Sawyer,WI,54896,45.819385,-91.01234,"Schools (K-12, elementary, middle, and high)",1,1,0
+14379,Birchwood Public Schools,300 S Wilson,Birchwood,Washburn,WI,54817,45.654407,-91.553364,"Schools (K-12, elementary, middle, and high)",1,1,0
+14391,Spooner Area School District,801 County Rd K,Spooner,Washburn,WI,54801,45.82245,-91.88934,"Schools (K-12, elementary, middle, and high)",1,1,0
+14572,St. Francis Solanis Mission School,13885 W Mission St,Stone Lake,Sawyer,WI,54876,45.88903,-91.388157,"Schools (K-12, elementary, middle, and high)",1,1,0
+60238,Country Lane Farmers Market,"1642 16th St.,",Barron,Barron,WI,54812,45.443715,-91.827179,Farmers markets,1,1,0
+14644,Chequamegon School District,420 9th St. N,Park Falls,Price,WI,54552,45.9459585,-90.4546106,"Schools (K-12, elementary, middle, and high)",1,1,0
+14650,Prentice School District,1025 Town,Prentice,Price,WI,54556,45.544392,-90.290837,"Schools (K-12, elementary, middle, and high)",1,1,0
+14646,Family Forum Head Start,400 Turner,Phillips,Price,WI,54555,45.690386,-90.404848,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14510,Boys & Girls Club of Eau Claire-Mary Markquart Center,1005 Oxford Ave,Eau Claire,Eau Claire,WI,54701,44.810346,-91.506686,Before and after-school programs,1,1,0
+47494,Truax Head Start Center,623 Truax Blvd.,Eau Claire,Eau Claire,WI,54703,44.830463,-91.519313,"Schools (K-12, elementary, middle, and high)",1,1,0
+18567,North River Fronts Park,815 Forest Ave.,Eau Claire,Eau Claire,WI,54703,45.047658,-92.133687,Gardens,1,1,0
+70379,Altoona Early Learning Center,1312 N. Hillcrest Parkway,Altoona,Eau Claire,WI,54720,44.794976,-91.433076,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+61141,Tri-County Elementary School,409 S West St.,Plainfield,Waushara,WI,54966,44.210382,-89.495799,"Schools (K-12, elementary, middle, and high)",1,1,0
+17937,East High School,1415 E Walnut Street,Green Bay,Brown,WI,54301,44.5067911,-87.9933282,"Schools (K-12, elementary, middle, and high)",1,1,0
+17914,Preble High school,2222 Deckner Avenue,Green Bay,Brown,WI,54302,44.5003502,-87.9671731,"Schools (K-12, elementary, middle, and high)",1,1,0
+46659,Oneida Elementary School,N7125 Seminary Rd,Oneida,Brown,WI,54155,44.4986,-88.18288,"Schools (K-12, elementary, middle, and high)",1,1,0
+15268,Oneida Early Head Start,N7210 Seminary Road,Oneida,Brown,WI,54155,44.5176348,-88.2266434,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+19242,Lowell Elementary School,"401 Maple Ave,",Madison,Dane,WI,53704,43.092904,-89.340337,"Schools (K-12, elementary, middle, and high)",1,1,0
+15040,Waukesha Neighborhoods,various,Waukesha,Waukesha,WI,53186,43.022155,-88.204676,"Other neighborhood settings where people ""live"" or live nearby",1,1,0
+15029,UW-Waukesha MultiCultural,1500 University Dr,Waukesha,Waukesha,WI,53188,43.029233,-88.267816,Before and after-school programs,1,0,0
+17953,Bloomer Baptist Church,2218 Duncan Road,Bloomer,Chippewa,WI,54724,45.103279,-91.503854,Faith-based centers/places of worship,1,1,0
+76936,"WIC, Chippewa Falls",711 N Bridge St #123,Chippewa Falls,Chippewa,WI,54729,44.940027,-91.396754,WIC clinics,1,0,0
+77269,Northwest Wisconsin  Community Action Services Agency,1118 Tower ave,Superior,Douglas,WI,54880,46.724748,-92.103756,"Food assistance sites, food banks, and food pantries",1,0,0
+37689,Oasis Senior Community Center,2414 W Mitchell St,Milwaukee,Milwaukee,WI,53204,43.0133,-87.942826,Congregate meal sites & other senior nutrition centers,1,1,0
+77430,Acelero Learning Teutonia Center,5719 N Teutonia Ave,Milwaukee,Milwaukee,WI,53209,43.121402,-87.951424,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+75989,Firemen's Park,W162 N11862 Park Ave,Germantown,Washington,WI,53022,43.232988,-88.11018,Parks and open spaces,1,1,0
+18609,Regner Park,1239 Park Avenue,West Bend,Washington,WI,53090,43.4342172,-88.19403,Parks and open spaces,1,1,0
+19578,Prescott Area  Food Pantry,720 St Croix St,Prescott,Pierce,WI,54021,44.7561695,-92.7974154,"Food assistance sites, food banks, and food pantries",1,1,1
+17530,Waukesha Co Health & Human Services,514 Riverview Avenue,Waukesha,Waukesha,WI,53188,43.021436,-88.231566,"Other places people go to ""learn""",1,0,0
+14955,"ECHO, Inc. Food Pantry",65 S. High Street,Janesville,Rock,WI,53548,42.6798813,-89.02717526,"Food assistance sites, food banks, and food pantries",1,1,1
+18217,Evansville Ecumenical Care Closet,202 S. Madison St.,Evansville,Rock,WI,53536,42.7776888,-89.2991709,"Food assistance sites, food banks, and food pantries",1,1,1
+58505,Edgerton Community Outreach,106 S. Main St.,Edgerton,Rock,WI,53534,42.831487,-89.071479,"Food assistance sites, food banks, and food pantries",1,0,1
+38673,Boys and Girls Club,1451 University Ave,Green Bay,Brown,WI,54303,44.515051,-88.022556,Before and after-school programs,1,0,0
+37426,Plymoth Congregational Church (UCC),115 West Merrimac Street,Dodgeville,Iowa,WI,53533,42.9608378,-90.131784,Faith-based centers/places of worship,1,1,0
+74364,Amery Area Food Pantry,230 Deronda Street,Amery,Polk,WI,54001,45.301769,-92.366656,,1,1,0
+18393,Lincoln Elementary School,909 Sequoia Trail,Madison,Dane,WI,53713,43.040728,-89.398449,,1,0,0
+15229,House of Hope,1660 Christiana St.,Green Bay,Brown,WI,54303,44.53064402,-88.06424992,Emergency shelters and temporary housing sites,1,1,0
+15150,Buffalo County Food Pantry,"St John's Church 
+409 South 2nd St",Alma,Buffalo,WI,54610,44.346721,-91.836481,"Food assistance sites, food banks, and food pantries",1,1,0
+79786,Riverview Senior Apartments,1300 E Kane Place,Milwaukee,Milwaukee,WI,53202,43.056544,-87.894585,Congregate meal sites & other senior nutrition centers,1,1,0
+67753,Willow Heights,800 3rd St.,Reedsburg,Sauk,WI,53959,43.533826,-89.999426,Individual homes or public housing sites,1,1,0
+18604,Campbell Court Apartments,148 Judson Drive,Beaver Dam,Dodge,WI,53916,43.4438919,-88.8347876,"Other neighborhood settings where people ""live"" or live nearby",1,1,0
+17322,Spring Hill Elementary School,300 Vine St,Wisconsin Dells,Columbia,WI,53965,43.6280027,-89.7645197,"Schools (K-12, elementary, middle, and high)",1,1,1
+17714,John Muir Elementary,2600 Woodcrest Dr.,Portage,Columbia,WI,53901,43.5582276,-89.4635946,"Schools (K-12, elementary, middle, and high)",1,1,0
+60997,Coloma Elementary School,210 N Linden St.,Coloma,Waushara,WI,54930,44.035033,-89.516297,"Schools (K-12, elementary, middle, and high)",1,1,0
+61000,Oxford Elementary School,222 S Franklin Ave.,Oxford,Marquette,WI,53952,43.779905,-89.572369,"Schools (K-12, elementary, middle, and high)",1,1,0
+15075,Adams County Health & Human Services,108 East North Street,Friendship,Adams,WI,53934,43.967492,-89.815814,Community organizations,1,1,0
+60030,Easton Town Hall,1163 County Road A,Grand Marsh,Adams,WI,53936,43.88692,-89.70624,"Other neighborhood settings where people ""live"" or live nearby",1,0,0
+80020,Back to School Store,2358 Leon Bond Dr.,Green Bay,Brown,WI,54311,44.530695,-87.912381,,1,0,0
+80039,Head Start at West Side School Mauston,708 Loomis Dr.,Mauston,Juneau,WI,53948,43.796458,-90.08714,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+18982,Adams County Food Pantry,1874 State Road 13,Friendship,Adams,WI,53934,43.9850601,-89.8271712,"Food assistance sites, food banks, and food pantries",1,0,0
+77216,Friendship Park,Main Street,Friendship,Adams,WI,53934,43.969545,-89.81627,Farmers markets,1,1,0
+14579,Boys and Girls Club of Fond du Lac,"76 W. Second St., PO Box 562",Fond du Lac,Fond du Lac,WI,54935,43.775214,-88.450062,Before and after-school programs,1,1,0
+28143,Giving Gardens of Portage County,"1462 Strongs Ave, UW-Extension",Stevens Point,Portage,WI,54481,44.520786,-89.581835,,1,0,0
+27122,Waupaca County WIC,811 Harding Street,Waupaca,Waupaca,WI,54981,44.35036,-89.067052,WIC clinics,1,0,0
+14749,West Elementary School,1232 Seventh Avenue,Antigo,Langlade,WI,54409,45.138373,-89.164753,"Schools (K-12, elementary, middle, and high)",1,1,0
+14750,White Lake Elementary School,405 Bissell Street,White Lake,Langlade,WI,54491,45.155768,-88.764666,"Schools (K-12, elementary, middle, and high)",1,1,0
+14745,North Elementary School,506 Graham Street,Antigo,Langlade,WI,54409,45.147401,-89.148661,"Schools (K-12, elementary, middle, and high)",1,1,0
+14742,East Elementary School,220 Seventh Ave,Antigo,Langlade,WI,54409,45.138012,-89.143692,"Schools (K-12, elementary, middle, and high)",1,1,0
+14748,Spring Valley Elementary School,N4754 Cth BB,Antigo,Langlade,WI,54409,45.2006523,-89.07298049,"Schools (K-12, elementary, middle, and high)",1,1,0
+14743,Elcho Elementary School,N11268 Antigo Street,Elcho,Langlade,WI,54428,45.413361,-89.143347,"Schools (K-12, elementary, middle, and high)",1,1,0
+27625,Aging Unit of Iron County,308 3rd. Ave. So.,Hurley,Iron,WI,54534,46.447226,-90.183127,,1,1,0
+14487,Kickapoo School District,S6520 State Hwy 131,Viola,Richland,WI,54664,43.503495,-90.678871,"Schools (K-12, elementary, middle, and high)",1,1,0
+14488,LaFarge School District,301 West Adams Street,La Farge,Vernon,WI,54639,43.57979154,-90.63885646,"Schools (K-12, elementary, middle, and high)",1,1,0
+14492,Seneca School District,"202 Main Street
+PO Box 34",Seneca,Crawford,WI,54654,43.265444,-90.957471,"Schools (K-12, elementary, middle, and high)",1,1,0
+18272,Prairie View Elementary School,E3245 County Road N,De Soto,Vernon,WI,54624,43.4972081,-91.045387,"Schools (K-12, elementary, middle, and high)",1,1,0
+14490,North Crawford School District,47050 County Rd. X,Soldiers Grove,Crawford,WI,54655,43.369813,-90.808363,"Schools (K-12, elementary, middle, and high)",1,1,0
+14933,Richland Community Food Pantry,345 S. Cairns Avenue,Richland Center,Richland,WI,53581,43.3329076,-90.39918357,"Food assistance sites, food banks, and food pantries",1,0,0
+14489,Living Faith Food Pantry,852 N. Main Street,Viroqua,Vernon,WI,54665,43.566346,-90.8889479,"Food assistance sites, food banks, and food pantries",1,1,0
+58754,waupaca area food pantry,800 Churchill St,Waupaca,Waupaca,WI,54981,44.349869,-89.072749,"Food assistance sites, food banks, and food pantries",1,0,0
+17480,G.D. Jones Elementary,1018 S. 12th Avenue,Wausau,Marathon,WI,54403,44.949382,-89.651673,Before and after-school programs,1,1,0
+14759,Merrill Head Start,W4165 State Highway 64,Merrill,Lincoln,WI,54452,45.1777716,-89.6344593,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14761,Tomahawk Head Start,1048 E. King Road,Tomahawk,Lincoln,WI,54487,45.47673484,-89.71245222,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+14564,Indianhead Community Action Agency Food Shelf,16058 W Highway 63,Hayward,Sawyer,WI,54843,46.005392,-91.496538,"Food assistance sites, food banks, and food pantries",1,1,0
+14581,Downtown FDL Partnership,30 S. Portland St.,Fond du Lac,Fond du Lac,WI,54935,43.77825571,-88.44572052,Farmers markets,1,0,1
+14563,Hayward Community Food Shelf,16216 W Highway 63,Hayward,Sawyer,WI,54843,46.000376,-91.504714,"Food assistance sites, food banks, and food pantries",1,1,0
+60671,La Crosse County ADRC,"300 4th St North La Crosse, WI 54601",La Crosse,La Crosse,WI,54601,43.814734,-91.248717,Community organizations,1,0,0
+17820,Hunger Task Force,201 S Hawley Ct,Milwaukee,Milwaukee,WI,53214,43.029318,-87.985313,"Other places people go to ""work""",1,0,0
+14725,La Crosse County Head Start,333 Buchner Place,La Crosse,La Crosse,WI,54603,43.827542,-91.251359,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+18387,La Crosse Housing Authority,1307 Badger St,La Crosse,La Crosse,WI,54601,43.8165248,-91.2369205,Individual homes or public housing sites,1,1,0
+80312,Ascension Good Sam,601 South Center Avenue,Merrill,Lincoln,WI,54452,45.175367,-89.682037,Health care clinics and hospitals,1,0,0
+15071,Waupaca County Department of Health and Human Services,811 Harding St,Waupaca,Waupaca,WI,54981,44.35036,-89.067052,Community organizations,1,0,0
+18662,Head Start Southside Alliance,4321 County Road A,Sheboygan,Sheboygan,WI,53081,43.7080626,-87.7628518,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",1,1,0
+37944,Sheboygan County WIC,1011 North 8th Street,Sheboygan,Sheboygan,WI,53081,43.7555641,-87.7125658,WIC clinics,1,0,0
+18675,Sheboygan Falls Aging and Disability Resource Center,650 Forest Avenue,Sheboygan Falls,Sheboygan,WI,53085,43.7437822,-87.808778,Congregate meal sites & other senior nutrition centers,1,1,0
+29620,PLAY AND LEARN ALLIED,22377 ALLIED DR,Fitchburg,Dane,WI,53711,43.028826,-89.459395,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15387,Stoughton Food Pantry,525 Lincoln Street,Stoughton,Dane,WI,53589,42.922649,-89.23223,"Food assistance sites, food banks, and food pantries",0,1,0
+17874,St Vincent Food Pantry,2033 Fish Hatchery Rd,Madison,Dane,WI,53713,43.0431,-89.4031862,"Food assistance sites, food banks, and food pantries",0,1,0
+61920,Darbo Play And Learn,3030 Darbo,Madison,Dane,WI,53711,43.103884,-89.339365,,0,1,0
+14847,Menominee WIC,W3275 Wolf River Rd,Keshena,Menominee,WI,54135,44.884438,-88.6500049,"Other places people go to ""learn""",0,1,0
+14421,Winnebago Co. WIC,112 Otter St.,Oshkosh,Winnebago,WI,54905,44.015983,-88.535794,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+15325,Fitchburg Senior Center,5510 East Lacy Road,Fitchburg,Dane,WI,53711,43.0023305,-89.4233961,Congregate meal sites & other senior nutrition centers,0,1,0
+27626,The Giving Tree Food Pantry,600 Cardinal Lane,Green Bay,Brown,WI,54313,44.5587487,-88.0847787,"Food assistance sites, food banks, and food pantries",0,1,0
+15193,First Presbyterian,200 S. Ashland Ave.,Green Bay,Brown,WI,54303,44.516192,-88.026849,Faith-based centers/places of worship,0,1,1
+15307,Centro Hispano-parents,810 W. Badger Road,Madison,Dane,WI,53713,43.039166,-89.395366,Community organizations,0,1,0
+14398,Salvation Army - Calumet,16 E. Main Street,Chilton,Calumet,WI,53014,44.029112,-88.162358,"Food assistance sites, food banks, and food pantries",0,1,0
+15260,Manna for Life Ministries Food Pantry,1545 University Ave.,Green Bay,Brown,WI,54302,44.5124789,-87.9842717,"Food assistance sites, food banks, and food pantries",0,1,0
+14406,SOAR Fox Cities,211 E. Franklin Street Suite A,Appleton,Outagamie,WI,54911,44.263859,-88.403738,Group living arrangements,0,1,0
+19511,St. Patricks,505 Clinton Street,Green Bay,Brown,WI,54311,44.5113262,-88.0265741,"Food assistance sites, food banks, and food pantries",0,1,0
+62171,Grace Lutheran Pantry,321 S Madison St.,Green Bay,Brown,WI,54303,44.509916,-88.013537,"Food assistance sites, food banks, and food pantries",0,1,0
+15275,Salvation Army,626 Union Court,Green Bay,Brown,WI,54303,44.5262914,-88.0243384,"Other places people go to ""learn""",0,1,0
+17708,Islamic Society of Wisconsin,1512 Velp Avenue,Green Bay,Brown,WI,54303,44.547105,-88.045294,Faith-based centers/places of worship,0,1,0
+15522,Independence Head Start Center,"35480 6th Street
+PO Box 125",Independence,Trempealeau,WI,54747,44.355869,-91.425859,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15404,WIC - S Park  St,2300 South Park Street Ste 2010,Madison,Dane,WI,53713,43.041054,-89.395186,Family resource centers,0,1,0
+14418,Oshkosh Area School District,215 Eagle St.,Oshkosh,Winnebago,WI,54902,44.016216,-88.573211,"Schools (K-12, elementary, middle, and high)",0,1,0
+19238,Calumet County WIC - Chilton,"206 Court St,",Chilton,Calumet,WI,53014,44.029643,-88.168974,WIC clinics,0,1,0
+14415,Oshkosh Area Community Pantry (OACP),2552 Jackson St.,Oshkosh,Winnebago,WI,54901,44.04821367,-88.54263333,"Food assistance sites, food banks, and food pantries",0,1,1
+14414,Friendship Place,320 N. Commercial St.,Neenah,Winnebago,WI,54956,44.19053678,-88.45768826,Group living arrangements,0,1,0
+15346,Latino Health Council Parents,6134 Sandstone Drive,Madison,Dane,WI,53719,43.011974,-89.487202,"Other places people go to ""learn""",0,1,0
+19353,Reach Dane - Red Arrow Head Start,2096 Red Arrow Trail,Fitchburg,Dane,WI,53711,43.031533,-89.457365,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+45162,Children's Hospial of Wisconsin,1466 Water St. #2,Stevens Point,Portage,WI,54481,44.520398,-89.584068,,0,1,0
+15311,Dane County Parent Council Headstart,2096 Red Arrow Tr,Madison,Dane,WI,53711,43.031533,-89.457365,Family resource centers,0,1,0
+18985,JFF - Allied,2225 Allied Dr,Madison,Dane,WI,53711,43.029571,-89.458929,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+62046,Plover Municipal Center,2400 Post Rd,Plover,Portage,WI,54467,44.462826,-89.543463,Congregate meal sites & other senior nutrition centers,0,1,0
+17663,YMCA Stevens Point,1000 Division Street,Stevens Point,Portage,WI,54481,44.526092,-89.575367,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+26402,Southfield Townhouses,2502 South 21 Street,Manitowoc,Manitowoc,WI,54220,44.068196,-87.675668,,0,1,0
+58882,Kewaunee WIC,810 Lincoln Street,Kewaunee,Kewaunee,WI,54216,44.450402,-87.510415,WIC clinics,0,1,0
+18086,Riverview Early Learning Center,4400 Michigan Avenue,Manitowoc,Manitowoc,WI,54220,44.106735,-87.70471,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+62113,Birchwood Food Pantry,113-115 Main Street,Birchwood,Washburn,WI,54817,45.655981,-91.555573,"Food assistance sites, food banks, and food pantries",0,1,0
+62139,Oneida Food Pantry and Food Distribution Center,N7372 Water Cir Pl,Oneida,Brown,WI,54155,44.4986,-88.18288,Food distribution program on Indian reservations (FDPIR) distribution sites,0,1,0
+28592,Chippewa Valley Technical College,500 S. Wasson Lane,River Falls,Pierce,WI,54022,44.853565,-92.607835,Schools (colleges and universities),0,1,0
+29949,Dane County Parent Council - East Madison Head Start,30 Dempsey Road,Madison,Dane,WI,53714,43.096225,-89.317001,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+62183,PAVE,1403 North Center Street,Beaver Dam,Dodge,WI,53916,43.472476,-88.839491,,0,1,0
+14479,The Gathering Source,209 S Main St,Reeseville,Dodge,WI,53579,43.299439,-88.8503409,"Food assistance sites, food banks, and food pantries",0,1,0
+14463,Crossroads Paper and Food Pantry,132A South Ludington,Columbus,Columbia,WI,53925,43.337944,-89.014962,"Food assistance sites, food banks, and food pantries",0,1,1
+14471,Riverwood Apartments,215 Mullet Street,Portage,Columbia,WI,53901,43.538094,-89.459653,Individual homes or public housing sites,0,1,0
+62220,St Willebrord Church,209 S Adams St,Green Bay,Brown,WI,54301,44.512109,-88.01544,Faith-based centers/places of worship,0,1,0
+17777,Our Lady of Grace,1430 Grove Ave,Racine,Racine,WI,53405,42.7141232,-87.8176909,"Schools (K-12, elementary, middle, and high)",0,1,0
+17659,Red Apple Elementary School,914 S Saint Patrick Street,Racine,Racine,WI,53402,42.7409238,-87.7911158,"Schools (K-12, elementary, middle, and high)",0,1,0
+17705,Racine Alternative Education,2405 Northwestern Ave,Racine,Racine,WI,53404,42.7401679,-87.8111552,"Schools (K-12, elementary, middle, and high)",0,1,0
+17669,Indian Trail High School,6800 60th St,Kenosha,Kenosha,WI,53144,42.5835805,-87.8893599,"Schools (K-12, elementary, middle, and high)",0,1,0
+14464,Forward Service Corporation,2875 Village Rd,Portage,Columbia,WI,53901,43.56725021,-89.47263856,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+62290,Cooper Elementary - SASD,2014 Cooper Ave.,Sheboygan,Sheboygan,WI,53083,43.770594,-87.733846,"Schools (K-12, elementary, middle, and high)",0,1,0
+14508,"Beacon House, Interfaith Hospitality Network",309 E Lake Street,Eau Claire,Eau Claire,WI,54701,44.80874,-91.496966,Emergency shelters and temporary housing sites,0,1,0
+66853,Loft Apartments,222 Madison Street,Beaver Dam,Dodge,WI,53916,43.45434,-88.842534,,0,1,0
+66858,Dane County Parent Council Headstart - South Madison,2202 S. Park St. #800,Madison,Dane,WI,53713,43.042217,-89.394715,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14903,WITC,1029 S. Knowles,New Richmond,St. Croix,WI,54017,45.131995,-92.536137,Schools (colleges and universities),0,1,0
+14692,Westosha Head Start,30100 Wilmot Road,Trevor,Kenosha,WI,53179,42.51144,-88.175888,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+19000,Leopold Elementary School,2602 Post Rd,Madison,Dane,WI,53713,43.027643,-89.421459,"Schools (K-12, elementary, middle, and high)",0,1,1
+18987,JFF - Leopold,3301 Leopold Way,Fitchburg,Dane,WI,53713,43.0264338,-89.4235984,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+15389,Vera Court Community Center,614 Vera Court,Madison,Dane,WI,53704,43.136236,-89.385401,Before and after-school programs,0,1,0
+19024,PAL - Badger Rock,501 E Badger Rd,Madison,Dane,WI,53713,43.037714,-89.377356,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15106,Red Cliff Early Childhood Center,"88385 Pike Road, Hwy 13",Bayfield,Bayfield,WI,54814,46.851543,-90.791435,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15300,Bayview International Center for Education and Arts,601 Bayview,Madison,Dane,WI,53715,43.0663912,-89.3980429,Individual homes or public housing sites,0,1,0
+19019,PAL - Northport,1704 Northport Dr,Madison,Dane,WI,53704,43.130656,-89.3631586,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18415,Green Valley Life Academy,110 E Burnett Street,Beaver Dam,Dodge,WI,53916,43.466512,-88.829907,Residential treatment centers,0,1,0
+67102,Dodgeland School,401 Western Ave,Juneau,Dodge,WI,53039,43.401909,-88.71649,,0,1,0
+15053,Women's Center,505 N. East Avenue,Waukesha,Waukesha,WI,53186,43.008122,-88.225653,Emergency shelters and temporary housing sites,0,1,0
+67139,East Terrace Apartments,801 N East Avenue,Waukesha,Waukesha,WI,53186,43.01083,-88.226292,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+18514,Cornell Food Pantry,401 S 2nd St,Cornell,Chippewa,WI,54732,45.163592,-91.150094,"Food assistance sites, food banks, and food pantries",0,1,0
+67264,Les Paul Middle School,325 Carroll Street,Waukesha,Waukesha,WI,53186,43.007056,-88.233072,"Schools (K-12, elementary, middle, and high)",0,1,0
+67272,Wabeno Head Start,4108 Quinlan St,Wabeno,Forest,WI,54566,45.439345,-88.636688,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+67290,Care Net Pregnancy Center,1350 Mac Arthur Rd,Madison,Dane,WI,53714,43.114448,-89.3209,Family resource centers,0,1,0
+29999,PLAY AND LEARN MEADWOOD COMMUNITY CENTER,5734 RAYMOND RD,Madison,Dane,WI,53711,43.032546,-89.477361,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+67300,New Beginnings Homeless Shelter,407 Beaver Street,Beaver Dam,Dodge,WI,53916,43.460345,-88.841162,,0,1,0
+17591,South Beaver Dam Elementary,W9787 Co Rd D,Beaver Dam,Dodge,WI,53916,43.440123,-88.888841,"Schools (K-12, elementary, middle, and high)",0,1,0
+15035,Waukesha County Mental Health Center,1501 Airport Road,Waukesha,Waukesha,WI,53188,43.026049,-88.232781,Community organizations,0,1,0
+27790,Gerald Ignace Indian Health Center,1711 S 11th St,Milwaukee,Milwaukee,WI,53204,43.011918,-87.925812,Community organizations,0,1,0
+27630,Pathfinders Academy,7112 4th Street,Algoma,Kewaunee,WI,54201,44.610034,-87.4385758,,0,1,0
+17512,Knapp Community School,2701 17th St.,Racine,Racine,WI,53405,42.7100975,-87.812477,,0,1,0
+18092,Hawthorn Hills Elementary School,1600 Kickbusch Street,Wausau,Marathon,WI,54403,44.956785,-89.605788,"Schools (K-12, elementary, middle, and high)",0,1,0
+17665,Jefferson Elementary School,1832 43rd St,Kenosha,Kenosha,WI,53140,42.5974715,-87.8326952,"Schools (K-12, elementary, middle, and high)",0,1,0
+17655,Brass Elementary School,6400 15th Ave,Kenosha,Kenosha,WI,53143,42.5760559,-87.8290381,"Schools (K-12, elementary, middle, and high)",0,1,0
+18702,Wilson Elementary School,4520 33rd Avenue,Kenosha,Kenosha,WI,53144,42.5947134,-87.8505329,"Schools (K-12, elementary, middle, and high)",0,1,0
+18651,Frank Elementary School,"1816 57th St,",Kenosha,Kenosha,WI,53140,42.5830469,-87.8312982,"Schools (K-12, elementary, middle, and high)",0,1,0
+18745,Edward Bain School of Language and Art,2600 50th St.,Kenosha,Kenosha,WI,53140,42.5937009,-87.841336,"Schools (K-12, elementary, middle, and high)",0,1,0
+14715,Transitional LIving Center,482 S. Pine Street,Burlington,Racine,WI,53105,42.6764148,-88.2741017,Emergency shelters and temporary housing sites,0,1,0
+18721,McKinley Elementary,5520 32nd Avenue,Kenosha,Kenosha,WI,53144,42.5848927,-87.8485259,"Schools (K-12, elementary, middle, and high)",0,1,0
+18747,Chavez Learning Station,6300 27th Ave.,Kenosha,Kenosha,WI,53143,42.5772373,-87.8420489,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18746,Bose Elementary,1900 15th St.,Kenosha,Kenosha,WI,53140,42.632813,-87.8325289,"Schools (K-12, elementary, middle, and high)",0,1,0
+14672,Racine County Human Services,1717 Taylor Avenue,Racine,Racine,WI,53404,42.710441,-87.806539,SNAP offices,0,1,0
+18743,Grewenow Elementary,7714 20th Ave.,Kenosha,Kenosha,WI,53143,42.5629683,-87.833859,"Schools (K-12, elementary, middle, and high)",0,1,0
+17702,Curtis Strange Elementary School,5414 49th Ave,Kenosha,Kenosha,WI,53144,42.587034,-87.869105,"Schools (K-12, elementary, middle, and high)",0,1,0
+43535,YMCA Kenosha,7101 53rd Street,Kenosha,Kenosha,WI,53144,42.58797904,-87.89349608,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+17457,Lincoln Elementary,720 S. 6th Avenue,Wausau,Marathon,WI,54403,44.954389,-89.64484,"Schools (K-12, elementary, middle, and high)",0,1,0
+67532,La Casa de Esperanza School,410 Arcadian Avenue,Waukesha,Waukesha,WI,53186,43.012174,-88.222896,"Schools (K-12, elementary, middle, and high)",0,1,0
+67535,UWEX- Marathon County,212 River Drive,Wausau,Marathon,WI,54403,44.957943,-89.632417,,0,1,0
+43280,Taft Elementary School,133 S. Western Street,Neenah,Winnebago,WI,54956,44.187394,-88.480349,"Schools (K-12, elementary, middle, and high)",0,1,0
+14924,Wood County Health and Human Services,500 32nd St. N,Wisconsin Rapids,Wood,WI,54494,44.391111,-89.78372,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+14586,Riverside Elementary School,396 Linden St.,Fond du Lac,Fond du Lac,WI,54935,43.76955745,-88.4485163,"Schools (K-12, elementary, middle, and high)",0,1,0
+14577,ARC Community Services,27 Third St.,Fond du Lac,Fond du Lac,WI,54935,43.774598,-88.446311,Residential treatment centers,0,1,0
+14578,Beacon House,166 S. Park Ave.,Fond du Lac,Fond du Lac,WI,54935,43.77407479,-88.43909689,Residential treatment centers,0,1,0
+60814,Forward Services,223 N. Seymour St.,Fond du Lac,Fond du Lac,WI,54935,43.785023,-88.467275,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+67551,Bright Futures,116 Monroe Street,Beaver Dam,Dodge,WI,53916,43.194514,-88.732638,,0,1,0
+18198,First Presbyterian,1225 Fourth St. Rd.,Fond du Lac,Fond du Lac,WI,54935,43.7702496,-88.4042865,Faith-based centers/places of worship,0,1,0
+18199,North Fond du Lac Early Learning Center,923 Minnesota Ave,Fond du Lac,Fond du Lac,WI,54937,43.8120838,-88.4835587,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14785,Jefferson Elementary School,1415 Division St,Manitowoc,Manitowoc,WI,54220,44.080476,-87.667396,"Schools (K-12, elementary, middle, and high)",0,1,0
+67738,Kannenberg Plaza,1240 Merrill AVE,Wausau,Marathon,WI,54401,44.978612,-89.643684,Individual homes or public housing sites,0,1,0
+67756,Neillsville Head Start,504 E. 5th Street,Neillsville,Clark,WI,54456,44.559705,-90.589934,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+67761,Dorchester Head Start,134 N. 4th St.,Dorchester,Clark,WI,54425,45.003857,-90.335787,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14585,Parkside Elementary School,475 W. Arndt St.,Fond du Lac,Fond du Lac,WI,54935,43.7872109,-88.4653851,"Schools (K-12, elementary, middle, and high)",0,1,0
+42850,GIFTS Men's Shelter,1515 Ashland Avenue,Janesville,Rock,WI,53548,42.69485329,-89.03792414,Emergency shelters and temporary housing sites,0,1,0
+67848,Beloit Housing Authority,210 Portland Ave.,Beloit,Rock,WI,53511,42.507001,-89.039614,Community organizations,0,1,0
+14964,Mercy Health System House of Mercy,320 Lincoln Street,Janesville,Rock,WI,53548,42.67629055,-89.02581657,Group living arrangements,0,1,0
+44027,Osseo Lutheran Church,50351 Harmony Street,Osseo,Trempealeau,WI,54758,44.570693,-91.225857,"Cafeterias (not school, childcare, congregate meal site, worksite or restaurant)",0,1,0
+43980,UWRF (University Wisconsin River Falls),410 South 3rd Street,River Falls,Pierce,WI,54220,44.109709,-87.714403,Schools (colleges and universities),0,1,0
+14898,Salvation Army St. Croix,"Grace Place
+505 W. 8th St.",New Richmond,St. Croix,WI,54017,45.127712,-92.509388,Community organizations,0,1,0
+17812,Serenity Home Shelter,200 Polk County Plz,Balsam Lake,Polk,WI,54810,45.4532807,-92.4571932,Emergency shelters and temporary housing sites,0,1,0
+15137,Polk County Head Start,"400 Polk County Plaza
+#C",Balsam Lake,Polk,WI,54810,45.453539,-92.466625,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+67861,Family Promise of Greater Beloit,655 Bluff St.,Beloit,Rock,WI,53511,42.502873,-89.041583,Community organizations,0,1,0
+14958,"Nutrition and Health Associates, Inc.-WIC",46 Eclipse Boulevard,Beloit,Rock,WI,53511,42.5202602,-89.0280838,Health care clinics and hospitals,0,1,0
+15140,Polk County Workforce Resource,"404 Main Street
+P.O. Box 278",Balsam Lake,Polk,WI,54810,45.449178,-92.45303,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+14951,Beloit Domestic Violence Survivor Center,Confidential location P.O. Box 476,Beloit,Rock,WI,53511,42.562039,-89.086045,Group living arrangements,0,1,0
+14962,YWCA Shelter,1735 S. Washington Street,Janesville,Rock,WI,53545,42.65333586,-89.03373296,Group living arrangements,0,1,0
+15028,Salvation Army,445 Madison Street,Waukesha,Waukesha,WI,53188,43.01369,-88.237484,Congregate meal sites & other senior nutrition centers,0,1,0
+14956,"Pregnancy Helpline of Janesville, Inc.",21 S. Jackson Street,Janesville,Rock,WI,53545,42.6560376,-89.0194868,"Other places people go to ""learn""",0,1,0
+18769,St Croix Community Support,1752 Dorset Lane,New Richmond,St. Croix,WI,54017,45.099596,-92.535057,Community organizations,0,1,0
+19011,MOM Food Pantry,3502 Parmenter St,Middleton,Dane,WI,53562,43.113153,-89.5113998,"Food assistance sites, food banks, and food pantries",0,1,0
+14465,"Meridian Group Inc, Village House and Village Glen Apartments",2830 Village Road,Portage,Columbia,WI,53901,43.56584308,-89.47263537,Individual homes or public housing sites,0,1,0
+67948,Bargain Boutique,200 E Blackhawk Ave,Prairie du Chien,Crawford,WI,54631,43.051588,-91.145084,"Food assistance sites, food banks, and food pantries",0,1,0
+17778,Goodland Elementary School,4800 Graceland Blvd,Racine,Racine,WI,53406,42.7264068,-87.8368285,"Schools (K-12, elementary, middle, and high)",0,1,0
+17841,Clayton Elementary School,221 Prentice St.,Clayton,Polk,WI,54004,45.3282417,-92.1724816,"Schools (K-12, elementary, middle, and high)",0,1,0
+14385,Siren School District,24022 Fourth Ave N,Siren,Burnett,WI,54872,45.78527,-92.377053,"Schools (K-12, elementary, middle, and high)",0,1,0
+30387,Family Resource Center St. Croix Valley,857 Main Street,Baldwin,St. Croix,WI,54002,44.9664483,-92.3733768,,0,1,0
+15067,Longfellow Elementary School,105 S. Clinton St.,Clintonville,Waupaca,WI,54929,44.620176,-88.763177,"Schools (K-12, elementary, middle, and high)",0,1,0
+14524,Lutheran Social Services:  Affinity House,3042 Kilbourne Ave.,Eau Claire,Eau Claire,WI,54703,44.851973,-91.475642,Residential treatment centers,0,1,0
+14891,United Way of St. Croix Valley,515 2nd St.,Hudson,St. Croix,WI,54016,44.975783,-92.757101,Community organizations,0,1,0
+18044,Winnebago County WIC-Neenah,211 N. Commercial St.,Neenah,Winnebago,WI,54956,44.189982,-88.458118,Health care clinics and hospitals,0,1,0
+58762,Douglas County Government Center,1316 N. 14th street,Superior,Douglas,WI,54880,46.721796,-92.096545,,0,1,0
+68814,MPS Clara Barton School,5700 W Green Tree Road,Milwaukee,Milwaukee,WI,53223,43.142215,-87.983225,,0,1,0
+68846,Waukesha North High School,2222 Michigan Avenue,Waukesha,Waukesha,WI,53189,43.018186,-88.264034,"Schools (K-12, elementary, middle, and high)",0,1,0
+14598,Robert E. Berry House,21 E. 2nd St.,Fond du Lac,Fond du Lac,WI,54935,43.77535767,-88.44561579,Group living arrangements,0,1,0
+69559,Western Dairyland Family Literacy 4K,510 S Farwell Street,Eau Claire,Eau Claire,WI,54703,44.809414,-91.496573,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15072,Waupaca County Food Pantries,800 Churchill St.,Waupaca,Waupaca,WI,54981,44.349869,-89.072749,"Food assistance sites, food banks, and food pantries",0,1,0
+68877,Holy Family Church,271 4th Street Way,Fond du Lac,Fond du Lac,WI,54937,43.773159,-88.437267,,0,1,0
+18678,Adell Senior Center,650 Siefert St.,Adell,Sheboygan,WI,53001,43.6199338,-87.9515547,Congregate meal sites & other senior nutrition centers,0,1,0
+18679,Cascade Village Hall,301 1st Street,Cascade,Sheboygan,WI,53011,43.6558224,-88.0109302,Congregate meal sites & other senior nutrition centers,0,1,0
+18685,Cedar Grove First Reformed Church,237 South Main Street,Cedar Grove,Sheboygan,WI,53013,43.5698268,-87.8209341,Congregate meal sites & other senior nutrition centers,0,1,0
+18682,Howards Grove Village Hall,913 South Wisconsin Drive,Howards Grove,Sheboygan,WI,53083,43.8247735,-87.8247763,Congregate meal sites & other senior nutrition centers,0,1,0
+18691,Rich-Len Apartments,115 North 15th Street,Oostburg,Sheboygan,WI,53070,43.6245713,-87.8074063,Congregate meal sites & other senior nutrition centers,0,1,0
+18681,Plymouth Generations,1500 Douglas Drive,Plymouth,Sheboygan,WI,53073,43.7525914,-87.9616834,Congregate meal sites & other senior nutrition centers,0,1,0
+18674,Bethany Reformed Church,1315 Washington Avenue,Sheboygan,Sheboygan,WI,53081,43.7188999,-87.723077,Congregate meal sites & other senior nutrition centers,0,1,0
+19247,Head Start - Northport,1927 Northport Drive,Madison,Dane,WI,53704,43.127641,-89.357908,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+19016,PAL - Bayview,601 Bayview,Madison,Dane,WI,53715,43.0663912,-89.3980429,Family resource centers,0,1,0
+28145,Agnesian HealthCare,912 S. Hickory St.,Fond du Lac,Fond du Lac,WI,54935,43.7541356,-88.4632435,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+18712,Community Action of Rock and Walworth Counties,20 Eclipse Center,Beloit,Rock,WI,53511,42.520717,-89.031992,Community organizations,0,1,0
+17723,Park High School,1901 12th St,Racine,Racine,WI,53403,42.717681,-87.80511,"Schools (K-12, elementary, middle, and high)",0,1,0
+30163,Prescott Senior Site,1505 Orrin Road,Prescott,Pierce,WI,55025,44.760271,-92.785926,Congregate meal sites & other senior nutrition centers,0,1,0
+29914,Play and Learn Vera Court,614 Vera Ct,Madison,Dane,WI,53704,43.136236,-89.385401,Family resource centers,0,1,0
+37919,Piggly Wiggly Waupaca,810 W Fulton St,Waupaca,Waupaca,WI,54981,44.358692,-89.100301,Large food stores and retailers (4+ registers),0,1,0
+18580,UW-Extension- Marathon County,"212 River Drive, Suite 3",Wausau,Marathon,WI,54403,44.9580015,-89.6322395,Extension offices,0,1,0
+37013,St. Vincent de Paul Marshfield,169 N Central Avenue,Marshfield,Wood,WI,54449,44.668343,-90.172054,,0,1,0
+18276,St. Bronislava Church,3200 Plover Road,Plover,Portage,WI,54467,44.454856,-89.555641,Faith-based centers/places of worship,0,1,0
+69115,Cedar Rail Apartments,601 S. Cedar Avenue,Marshfield,Wood,WI,54449,44.661057,-90.173783,,0,1,0
+14690,Shalom Center,1713 62nd St,Kenosha,Kenosha,WI,53143,42.5784873,-87.8301313,Emergency shelters and temporary housing sites,0,1,0
+14589,UW-Extension - Fond du Lac Co.,"UW-Fond du Lac
+227 Adminstation/Extension Building",Fond du Lac,Fond du Lac,WI,54935,43.77366,-88.436782,Extension offices,0,1,1
+69133,CORE El Centro,130 W Bruce Street #300,Milwaukee,Milwaukee,WI,53204,43.025408,-87.912091,Community organizations,0,1,0
+15328,Franklin Elementary School,305 West Lakeside Street,Madison,Dane,WI,53715,43.055626,-89.387701,"Schools (K-12, elementary, middle, and high)",0,1,0
+14568,Hayward Head Start,10814 Beal Avenue,Hayward,Sawyer,WI,54843,46.02467807,-91.47883283,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14394,Washburn County Head Start,851 Northland Drive,Spooner,Washburn,WI,54801,45.834056,-91.877642,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15206,Freedom House - The Bridge Transitional Living,2997 St. Anthony Dr.,Green Bay,Brown,WI,54311,44.518637,-87.9394149,Emergency shelters and temporary housing sites,0,1,0
+14531,Workforce Resource Center,"Eau Claire County Job Center
+221 W Madison Street, Suite 140-A",Eau Claire,Eau Claire,WI,54703,44.812349,-91.500637,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+14591,Youth for Christ Campus Life,303 E. 9th St.,Fond du Lac,Fond du Lac,WI,54935,43.76902135,-88.43460947,Faith-based centers/places of worship,0,1,0
+38188,Woodridge Elementary School,333 E. Slifer St.,Portage,Columbia,WI,53901,43.55833045,-89.46301969,"Schools (K-12, elementary, middle, and high)",0,1,0
+18550,St. Vincent de Paul,2124 Rice Street,Stevens Point,Portage,WI,54481,44.508645,-89.567679,"Food assistance sites, food banks, and food pantries",0,1,0
+14717,Women's Resource Center,1547 College Avenue,Racine,Racine,WI,53403,42.71334108,-87.78464637,Emergency shelters and temporary housing sites,0,1,0
+51873,Racine Kenosha Community Action Agency,2000 63rd Street,Kenosha,Kenosha,WI,53143,42.57752,-87.833385,WIC clinics,0,1,0
+15145,Gilmanton Elementary School,S889 Larson Rd.,Gilmanton,Buffalo,WI,54743,44.4665045,-91.6733316,"Schools (K-12, elementary, middle, and high)",0,1,0
+17746,Green Tree Elementary School,1330 Green Tree Rd.,West Bend,Washington,WI,53090,43.437263,-88.198738,"Schools (K-12, elementary, middle, and high)",0,1,0
+69569,McLane Elementary School (West Bend School District),833 Chestnut St.,West Bend,Washington,WI,53095,43.419022,-88.187434,"Schools (K-12, elementary, middle, and high)",0,1,0
+19641,United Community Center,1028 S 9th St,Milwaukee,Milwaukee,WI,53204,43.020618,-87.921716,Congregate meal sites & other senior nutrition centers,0,1,0
+14863,Aurora Walker's Point Community Clinic,"130 W. Bruce Street, Suite 200",Milwaukee,Milwaukee,WI,53204,43.025408,-87.912091,Health care clinics and hospitals,0,1,0
+18708,Mitchell Elementary School,2713 Drexel Ave.,Racine,Racine,WI,53403,42.6991208,-87.8115697,"Schools (K-12, elementary, middle, and high)",0,1,0
+69598,Evergreen Elementary,3351 Chicory Rd.,Racine,Racine,WI,53403,42.682192,-87.818457,"Schools (K-12, elementary, middle, and high)",0,1,0
+45737,Rhinelander Head Start,1872 N Stevens St,Rhinelander,Oneida,WI,54501,45.655224,-89.391028,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+69636,Northland Pines Elementary School,1700 Pleasure Island Dr,Eagle River,Vilas,WI,54521,45.934537,-89.25299,"Schools (K-12, elementary, middle, and high)",0,1,0
+27987,Vilas Senior Meal Eagle River,1019 E. Wall Street,Eagle River,Vilas,WI,54521,45.915398,-89.237495,Congregate meal sites & other senior nutrition centers,0,1,0
+27990,Vilas Boulder Junction Senior Meal,5509 Cty Hwy M,Boulder Junction,Vilas,WI,54512,46.1131679,-89.6440024,Congregate meal sites & other senior nutrition centers,0,1,0
+14615,Riverdale Food Pantry,431 N Wisconsin Ave,Muscoda,Grant,WI,53573,43.19,-90.443265,"Food assistance sites, food banks, and food pantries",0,1,0
+69666,Lafayette County Food Pantry,1033 N. Main Street,Darlington,Lafayette,WI,53530,42.686164,-90.116991,"Food assistance sites, food banks, and food pantries",0,1,0
+69667,Green County Aging & Disability Resource Center,N3152 State Road 81,Monroe,Green,WI,53566,42.612966,-89.656994,Congregate meal sites & other senior nutrition centers,0,1,0
+47064,Belmont Senior Meal site - Belmont Community Center,"222 S Mound Ave, Belmont, WI 53510  (608) 762-5326",Belmont,Lafayette,WI,53510,42.736629,-90.333696,Congregate meal sites & other senior nutrition centers,0,1,0
+69670,WIC - East Washington Ave,2705 E Washington Ave.,Madison,Dane,WI,53704,43.101887,-89.345667,Health care clinics and hospitals,0,1,0
+69694,Brodhead Senior Meal Site,1103 W 2nd Ave,Brodhead,Green,WI,53520,42.619659,-89.378225,Congregate meal sites & other senior nutrition centers,0,1,0
+36052,SWCAP Food Pantry - Iowa County,138 S Iowa Street,Dodgeville,Iowa,WI,53533,42.959549,-90.130875,"Food assistance sites, food banks, and food pantries",0,1,0
+19385,Blue River Meal Site,201 Clinton St,Blue River,Grant,WI,53518,43.1868114,-90.5686631,Congregate meal sites & other senior nutrition centers,0,1,0
+44174,Lancaster Meal Site,714 S Washington St,Lancaster,Grant,WI,53813,42.84233618,-90.711848,Congregate meal sites & other senior nutrition centers,0,1,0
+27570,Fennimore Meal Site,925 Eisenhower St,Fennimore,Grant,WI,53809,42.9833058,-90.6637375,Congregate meal sites & other senior nutrition centers,0,1,0
+17539,SWCAP Boscobel Food Pantry,Johnson Street,Boscobel,Grant,WI,53805,43.1411785,-90.6875948,"Food assistance sites, food banks, and food pantries",0,1,0
+69698,Dodgeville Senior Meal Site,605 N. Bennett Road,Dodgeville,Iowa,WI,53533,42.962831,-90.112771,Congregate meal sites & other senior nutrition centers,0,1,0
+44139,Grant County ADRC Dickeyville meal site,500 East Ave,Dickeyville,Grant,WI,53808,42.629018,-90.58739,Congregate meal sites & other senior nutrition centers,0,1,0
+43999,Cuba City Meal Site,418 W Palmer St,Cuba City,Grant,WI,53807,42.61032529,-90.43469237,"Cafeterias (not school, childcare, congregate meal site, worksite or restaurant)",0,1,0
+69701,Montfort Meal Site,102 E Park St,Montfort,Grant,WI,53569,42.971886,-90.432143,,0,1,0
+22872,Cassville Municipal Building,100 E Amelia St,Cassville,Grant,WI,53806,42.713949,-90.989645,Community and recreation centers,0,1,0
+17697,Bagley senior meal site Community Building,400 South Jackley Street,Bagley,Grant,WI,53801,42.9036692,-91.1007191,Congregate meal sites & other senior nutrition centers,0,1,0
+69712,Arena Senior Meal Site,343 West Street,Arena,Iowa,WI,53503,43.162768,-89.917602,Congregate meal sites & other senior nutrition centers,0,1,0
+18249,Community Center,569 N. Cedar Street,Adams,Adams,WI,53910,43.966139,-89.821918,Community and recreation centers,0,1,0
+27836,Platteville Meal Site,155 W Lewis St,Platteville,Grant,WI,53818,42.7386838,-90.4775407,Congregate meal sites & other senior nutrition centers,0,1,0
+43979,Cochrane-Fountain City School,S2770 State Hwy 35,Fountain City,Buffalo,WI,54629,44.09764,-91.676886,"Schools (K-12, elementary, middle, and high)",0,1,0
+14957,Rock-Walworth Comprehensive Family Services-Head Start/Early Head Start,1221 Henry Avenue,Beloit,Rock,WI,53511,42.5226506,-89.0226584,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18524,Walmart,250 Crossroads Drive,Plover,Portage,WI,54467,44.492576,-89.509773,Large food stores and retailers (4+ registers),0,1,0
+15388,River Food Pantry,2201 Darwin Rd,Madison,Dane,WI,53704,43.128551,-89.353357,"Food assistance sites, food banks, and food pantries",0,1,0
+17898,Eisenhower Elementary School,1770 Amy Street,Green Bay,Brown,WI,54302,44.4896977,-87.9827201,"Schools (K-12, elementary, middle, and high)",0,1,0
+68847,South High School - UWM at Waukesha MultiCultural,401 E Roberta Avenue,Waukesha,Waukesha,WI,53186,42.993195,-88.222594,"Schools (K-12, elementary, middle, and high)",0,1,0
+27775,"dunn county public health, menomonie",3001 us highway 12 east,Menomonie,Dunn,WI,54751,44.887352,-91.887098,,0,1,0
+14454,Stepping Stones Food Pantry,1620 Stout Road,Menomonie,Dunn,WI,54751,44.880021,-91.909752,"Food assistance sites, food banks, and food pantries",0,1,0
+14449,Dunn County Human Services,"3001 US Highway 12 East, Suite",Menomonie,Dunn,WI,54751,44.887352,-91.887098,Congregate meal sites & other senior nutrition centers,0,1,0
+14799,Koenig Elementary School,1114 Lowell Street,Two Rivers,Manitowoc,WI,54241,44.143992,-87.583843,"Schools (K-12, elementary, middle, and high)",0,1,0
+69896,Jefferson Elementary,1722 W 6th St.,Racine,Racine,WI,53404,42.726133,-87.801789,"Schools (K-12, elementary, middle, and high)",0,1,0
+19577,Janes Elementary School (RUSD),1425 N Wisconsin St,Racine,Racine,WI,53404,42.7389038,-87.7854684,"Schools (K-12, elementary, middle, and high)",0,1,0
+18715,Giese Elementary School,5120 Byrd Ave.,Racine,Racine,WI,53406,42.710541,-87.841204,"Schools (K-12, elementary, middle, and high)",0,1,0
+18716,Fratt Elementary,3501 Kinzie Avenue,Racine,Racine,WI,53405,42.7217774,-87.8217924,"Schools (K-12, elementary, middle, and high)",0,1,0
+45421,Dr. Jones Elementary School,3300 Chicory Rd.,Racine,Racine,WI,53403,42.682493,-87.818206,"Schools (K-12, elementary, middle, and high)",0,1,0
+43922,Gilmore Middle School,2330 Northwestern Ave.,Racine,Racine,WI,53404,42.74074415,-87.80881879,"Schools (K-12, elementary, middle, and high)",0,1,0
+17613,North Park Elementary,4748 Elizabeth St.,Racine,Racine,WI,53402,42.7813812,-87.8030976,Before and after-school programs,0,1,0
+69901,Gifford Elementary,8332 Northwestern Ave.,Racine,Racine,WI,53406,42.758816,-87.88652,"Schools (K-12, elementary, middle, and high)",0,1,0
+14711,Racine County Food Bank,2000 DeKoven Avenue,Racine,Racine,WI,53404,42.707729,-87.806303,"Food assistance sites, food banks, and food pantries",0,1,1
+44976,Painting Pathways Clubhouse,1226 Washington Street,Manitowoc,Manitowoc,WI,54220,44.089057,-87.664487,Community organizations,0,1,0
+14765,Family Resource Center,715 S 24th Avenue,Wausau,Marathon,WI,54401,44.95512993,-89.66569963,Family resource centers,0,1,0
+69913,Jerstad Elementary School,3601 Lasalle St.,Racine,Racine,WI,53402,42.795889,-87.816532,"Schools (K-12, elementary, middle, and high)",0,1,0
+69916,West Ridge Elementary,1347 S Emmertsen Rd.,Racine,Racine,WI,53406,42.716815,-87.855437,"Schools (K-12, elementary, middle, and high)",0,1,0
+42824,Wadewitz,2700 Yout St.,Racine,Racine,WI,53404,42.745946,-87.812229,"Schools (K-12, elementary, middle, and high)",0,1,0
+69918,SC Johnson Elementary,2420 Kentucky St.,Racine,Racine,WI,53405,42.700279,-87.830876,"Schools (K-12, elementary, middle, and high)",0,1,0
+69919,Roosevelt Elementary,915 Romayne Ave.,Racine,Racine,WI,53402,42.750456,-87.791417,"Schools (K-12, elementary, middle, and high)",0,1,0
+69921,Schulte Elementary,8515 Westminster Dr.,Sturtevant,Racine,WI,53177,42.692984,-87.889323,,0,1,0
+14754,Jefferson Elementary,1914 Jackson Street,Merrill,Lincoln,WI,54452,45.174455,-89.727004,"Schools (K-12, elementary, middle, and high)",0,1,0
+14755,Kate Goodrich Elementary,505 W. 10th Street,Merrill,Lincoln,WI,54452,45.188074,-89.707779,"Schools (K-12, elementary, middle, and high)",0,1,0
+69928,Olympia Brown Elementary,2115 5 1/2 Mile Rd.,Racine,Racine,WI,53402,42.806257,-87.803361,"Schools (K-12, elementary, middle, and high)",0,1,0
+36947,Knapp Elementary School,2701 17th St.,Racine,Racine,WI,53405,42.7100826,-87.8120218,"Schools (K-12, elementary, middle, and high)",0,1,0
+42894,Community Services Stevens Point,1466  Water Street,Stevens Point,Portage,WI,54481,44.520398,-89.584068,Community organizations,0,1,0
+69941,Ho Chunk Head Start Nekoosa,4910 Winneshiek Lane,Nekoosa,Wood,WI,54475,44.284258,-89.963292,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14550,Florence County Health Department,501 Lake Avenue,Florence,Florence,WI,54121,45.9211777,-88.248996,Health care clinics and hospitals,0,1,0
+14552,Florence County Family Center,612 Lake Avenue,Florence,Florence,WI,54121,45.9217159,-88.2511397,Family resource centers,0,1,0
+69947,River Cities High School,2390 48th Street South,Wisconsin Rapids,Wood,WI,54494,44.373623,-89.766417,"Schools (K-12, elementary, middle, and high)",0,1,0
+69973,Jeanne Richard,900 Chapin Street,Florence,Florence,WI,54121,45.925561,-88.250495,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14551,Florence County Aging,501 Lake Avenue,Florence,Florence,WI,54121,45.9233029,-88.2491127,Community organizations,0,1,0
+14549,Florence Public School District,425 Olive Ave,Florence,Florence,WI,54121,45.9239277,-88.2483785,"Schools (K-12, elementary, middle, and high)",0,1,0
+69992,Auntie M Child Care Center,900 Chapin Street,Florence,Florence,WI,54121,45.925561,-88.250495,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+17880,Tank Elementary School,814 S Oakland Avenue,Green Bay,Brown,WI,54304,44.5108803,-88.0318768,"Schools (K-12, elementary, middle, and high)",0,1,0
+70006,Arcadia Middle School,725 Fairfield Ave.,Arcadia,Trempealeau,WI,54612,44.242618,-91.485831,,0,1,0
+14758,Merrill Food Pantry,503 S. Center Avenue,Merrill,Lincoln,WI,54452,45.17599878,-89.68290252,"Food assistance sites, food banks, and food pantries",0,1,0
+18650,New Richmond Head Start,"118 Homestead Drive, Suite 4",New Richmond,St. Croix,WI,54017,45.109762,-92.536645,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+70068,"Shalom Center 4314 39th Ave, Kenosha, WI 53144",4314 39th Avenue,Kenosha,Kenosha,WI,52144,42.596902,-87.856003,Emergency shelters and temporary housing sites,0,1,0
+44404,Malickis Piggly Wiggly,5201 Washington Ave,Racine,Racine,WI,53406,42.718632,-87.842132,"Cafeterias (not school, childcare, congregate meal site, worksite or restaurant)",0,1,0
+17852,Festival Foods,6000 31st St,Kenosha,Kenosha,WI,53144,42.6105,-87.878319,Large food stores and retailers (4+ registers),0,1,0
+14813,Rainbow House,1530 Main St,Marinette,Marinette,WI,54143,45.09808561,-87.6265222,Group living arrangements,0,1,0
+15082,Friendship Connections,117 South Main Street,Adams,Adams,WI,53910,43.957349,-89.817847,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+17791,Wittenberg WIC (Wittenberg Community Center),208 West Vinal Street,Wittenberg,Shawano,WI,54499,44.822752,-89.170426,WIC clinics,0,1,0
+70134,St. Michaels Food Pantry,N816 Hwy 47/55,Keshena,Menominee,WI,54135,44.885069,-88.639121,"Food assistance sites, food banks, and food pantries",0,1,0
+17557,Stockbridge Munsee Health and Wellness Center,W12802 County Hwy A.,Bowler,Shawano,WI,54416,44.8637991,-88.981476,Health care clinics and hospitals,0,1,0
+14788,Madison Elementary School MPSD,701 N 4th St,Manitowoc,Manitowoc,WI,54220,44.100733,-87.650961,"Schools (K-12, elementary, middle, and high)",0,1,0
+14769,The Neighbors' Place,745 Scott Street,Wausau,Marathon,WI,54403,44.959835,-89.618397,Community organizations,0,1,0
+14766,First Presbyterian Church,406 Grant Street,Wausau,Marathon,WI,54401,44.962638,-89.625828,Family resource centers,0,1,0
+18480,"Enrich, Excel, Achieve Academy",2607 N. 18th Street,Wausau,Marathon,WI,54403,44.981649,-89.59824,"Schools (K-12, elementary, middle, and high)",0,1,0
+18594,First Hmong Missionary Alliance Church,5500 Stettin Drive,Wausau,Marathon,WI,54401,44.965588,-89.704397,"Food assistance sites, food banks, and food pantries",0,1,0
+15460,Indianhead Community Action Agency,624 E. College Avenue,Medford,Taylor,WI,54451,45.164705,-90.445798,"Schools (K-12, elementary, middle, and high)",0,1,1
+18525,Riverview Towers,500 Grand Avenue,Wausau,Marathon,WI,54403,44.952095,-89.624286,Individual homes or public housing sites,0,1,0
+18642,Aging and Disability Resource Center of Door County,832 N 14th Avenue,Sturgeon Bay,Door,WI,54235,44.84521,-87.360806,,0,1,0
+70168,Casco Senior Meal Site,115 Wiesner Avenue,Casco,Kewaunee,WI,54205,44.55929,-87.62028,Congregate meal sites & other senior nutrition centers,0,1,0
+37924,Baileys Harbor Senior Meal Site,2392 County Road F,Baileys Harbor,Door,WI,54202,45.0660028,-87.1243905,Congregate meal sites & other senior nutrition centers,0,1,0
+17344,Indianhead Community Action Agency - Head Start,614 E. College Street,Medford,Taylor,WI,54451,45.12985603,-90.33977621,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+37922,ADRC of Door County,832 W 14th Avenue,Sturgeon Bay,Door,WI,54235,44.84521,-87.360806,Congregate meal sites & other senior nutrition centers,0,1,0
+14848,St. Michael's Food Pantry,N816 Hwy 47-55,Keshena,Menominee,WI,54135,44.884899,-88.637457,"Food assistance sites, food banks, and food pantries",0,1,0
+18097,Rusch Elementary School,117 W Franklin St.,Portage,Columbia,WI,53901,43.5436186,-89.4638119,"Schools (K-12, elementary, middle, and high)",0,1,0
+17856,South Branch Community Center,W1281 E County Rd. M,Suring,Oconto,WI,54174,45.0885,-88.3945,Congregate meal sites & other senior nutrition centers,0,1,0
+17938,Head Start Parent Center,617 N. Irwin Avenue,Green Bay,Brown,WI,54302,44.5133426,-87.9943303,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+17643,Badger Praire Food Pantry,1200 E Verona Ave.,Verona,Dane,WI,53593,42.9953369,-89.5144263,"Food assistance sites, food banks, and food pantries",0,1,0
+14724,Hope Academy Family Children's Center,1707 Main Street,La Crosse,La Crosse,WI,54601,43.812202,-91.230418,"Schools (K-12, elementary, middle, and high)",0,1,0
+38653,Jewish Community Center Food Pantry,2900 W Center St,Milwaukee,Milwaukee,WI,53210,43.067757,-87.949874,"Food assistance sites, food banks, and food pantries",0,1,0
+38654,Salvation Army Oak Creek Food Pantry,8853 South Howell Ave.,Oak Creek,Milwaukee,WI,53154,42.883482,-87.913158,"Food assistance sites, food banks, and food pantries",0,1,0
+70228,Mount Pleasant Place,"5810 Lincoln Village Dr, Mt Pleasant,",Racine,Racine,WI,53406,42.711425,-87.852685,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+18645,Festival Foods,3207 80th St,Kenosha,Kenosha,WI,53142,42.5568274,-87.8478861,Large food stores and retailers (4+ registers),0,1,0
+18986,JFF - Badger,818 W Badger Rd,Madison,Dane,WI,53713,43.039184,-89.39585,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+14470,"Renewal Unlimited, Inc",2900 Red Fox Run,Portage,Columbia,WI,53901,43.568231,-89.465496,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14538,Vilas Public Health,330 Court St,Eagle River,Vilas,WI,54521,45.920406,-89.249762,Health care clinics and hospitals,0,1,0
+18690,Boys and Girls Club of Sheboygan County,733 Broadway Ave,Sheboygan,Sheboygan,WI,53081,43.7356172,-87.7126848,Before and after-school programs,0,1,0
+14800,Sheboygan Forward Services,3620 Wilgus Avenue.,Sheboygan,Sheboygan,WI,53081,43.7594991,-87.75514422,"Other places people go to ""learn""",0,1,0
+18665,Head Start Lakeshore,1429 North 5th Street,Sheboygan,Sheboygan,WI,53081,43.7604032,-87.7074121,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+70375,Sheboygan Early Learning Center,1227 Wilson Avenue,Sheboygan,Sheboygan,WI,53081,43.722572,-87.720863,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18688,Jefferson Elementary School Sheboygan,1538 N 15th St,Sheboygan,Sheboygan,WI,53081,43.7621792,-87.7254852,"Schools (K-12, elementary, middle, and high)",0,1,0
+70428,RiverCrest Apartments,1007 E. Wisconsin St.,Prairie du Chien,Crawford,WI,54631,43.050575,-91.135143,Group living arrangements,0,1,0
+18518,Father Carr's Place 2 Be,1965 Oshkosh Avenue,Oshkosh,Winnebago,WI,54901,44.033217,-88.5759983,Community organizations,0,1,0
+38802,North Central Technical College,1000 W. Campus Dr,Wausau,Marathon,WI,54452,44.986037,-89.646051,Schools (colleges and universities),0,1,0
+18069,Grant Elementary,500 North 4th Avenue,Wausau,Marathon,WI,54401,44.96936,-89.641511,"Schools (K-12, elementary, middle, and high)",0,1,0
+18483,Franklin Elementary,1509 N. 5th Street,Wausau,Marathon,WI,54403,44.968855,-89.624342,"Schools (K-12, elementary, middle, and high)",0,1,0
+15195,First United Methodist Church,501 Howe St.,Green Bay,Brown,WI,54301,44.510856,-88.013046,Faith-based centers/places of worship,0,1,1
+14545,Vilas Lac du Flambeau Public School,2899 Hwy 47 S,Lac du Flambeau,Vilas,WI,54538,45.977811,-89.876837,"Schools (K-12, elementary, middle, and high)",0,1,0
+14844,Menominee Indian High School,N522 WI-47,Keshena,Menominee,WI,54135,44.8838712,-88.6337152,"Schools (K-12, elementary, middle, and high)",0,1,0
+14843,Menominee Tribal Head Start Program,N733 Headstart Road,Keshena,Menominee,WI,54135,44.8838712,-88.6337152,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+19447,Boys and Girls Club of Shawano,Olga Brener School 1300  S Union St,Shawano,Shawano,WI,54166,44.7649903,-88.6010018,"Schools (K-12, elementary, middle, and high)",0,1,0
+15402,WIC Madison and Dane County,2300 South Park Street Ste 2010,Madison,Dane,WI,53713,43.041054,-89.395186,Family resource centers,0,1,0
+43533,Roosevelt Elementary,3322 Roosevelt Road,Kenosha,Kenosha,WI,53142,42.57062295,-87.8490799,"Schools (K-12, elementary, middle, and high)",0,1,0
+43866,Westridge Elementary School,1347 S Emmertsen Road,Racine,Racine,WI,53406,42.7159735,-87.8540439,"Cafeterias (not school, childcare, congregate meal site, worksite or restaurant)",0,1,0
+19008,Schenk Elementary School,230 Schenk St,Madison,Dane,WI,53714,43.092224,-89.324766,"Schools (K-12, elementary, middle, and high)",0,1,0
+71247,Spooner Indianhead Community Action Agency,608 Service Road,Spooner,Washburn,WI,54801,45.822424,-91.880947,"Food assistance sites, food banks, and food pantries",0,1,0
+19342,Falk Elementary School,6323 Woodington Way,Madison,Dane,WI,53711,43.040218,-89.489736,Before and after-school programs,0,1,0
+28284,UW Extension Douglas County,1313 Belknap Street,Superior,Douglas,WI,54880,46.7210793,-92.0971007,Extension offices,0,1,0
+71276,Bridges Community Center,5718 7th Avenue,Kenosha,Kenosha,WI,53140,42.583417,-87.819727,,0,1,0
+71281,Muscoda Senior Meal Site - ADRC Grant County,206 North Wisconsin Ave,Muscoda,Grant,WI,53573,43.186619,-90.442933,Congregate meal sites & other senior nutrition centers,0,1,0
+14778,Longfellow Elementary School SASD,819 Kentucky Ave,Sheboygan,Sheboygan,WI,54220,43.741961,-87.713255,"Schools (K-12, elementary, middle, and high)",0,1,0
+14784,Grant Elementary School SASD,1528 N 5th St,Sheboygan,Sheboygan,WI,53081,43.76110031,-87.70803683,"Schools (K-12, elementary, middle, and high)",0,1,0
+18701,Sheridan Elementary School SASD,1412 Maryland Ave,Sheboygan,Sheboygan,WI,53081,43.745863,-87.7238567,"Schools (K-12, elementary, middle, and high)",0,1,0
+37171,Racine Friendship Clubhouse,"2000 17th St, Racine",Racine,Racine,WI,53403,42.7108977,-87.8034014,Community organizations,0,1,0
+17798,Washington Junior High School,2101 Division Street,Manitowoc,Manitowoc,WI,54220,44.080314,-87.675713,"Schools (K-12, elementary, middle, and high)",0,1,0
+44405,Festival Foods,"5740 Washington Ave, Mt Pleasant, WI 53406",Racine,Racine,WI,53406,42.719149,-87.848595,Large food stores and retailers (4+ registers),0,1,0
+60163,Mt. Pleasant Luthern Church,"1700 S Green Bay Rd, Mt Pleasant",Racine,Racine,WI,53406,42.711454,-87.850233,Faith-based centers/places of worship,0,1,0
+71550,Northlakes Community Clinic - Hayward Dental Clinic,15954 Riversedge Dr,Hayward,Sawyer,WI,54843,45.955223,-91.278308,Worksites with low-wage workers,0,1,0
+71554,Lakeland Family Resource Center,314 Elm St,Spooner,Washburn,WI,55801,45.828586,-91.889581,Family resource centers,0,1,0
+71572,Chippewa County Extension,711 N Bridge St,Chippewa Falls,Chippewa,WI,54729,44.940027,-91.396754,Extension offices,0,1,0
+14893,Pierce County Head Start,34170 HW 63,Ellsworth,Pierce,WI,54011,44.740142,-92.548289,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14697,Trinity Apartments,2132 Center Street,Racine,Racine,WI,53403,42.7033219,-87.79004039,Group living arrangements,0,1,0
+18072,Thomas Jefferson Elementary,500 West Randolph Street,Wausau,Marathon,WI,54401,44.981655,-89.642166,"Schools (K-12, elementary, middle, and high)",0,1,0
+71912,Unity HIgh School,1908 WI 46,Balsam Lake,Polk,WI,54810,45.491816,-92.468381,"Schools (K-12, elementary, middle, and high)",0,1,0
+17509,Columbus Head Start,1501 Farnham Street,Columbus,Columbia,WI,53925,43.325163,-89.019264,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14407,Salvation Army of the Fox Cities,130 E. North St.,Appleton,Outagamie,WI,54913,44.265792,-88.404699,"Food assistance sites, food banks, and food pantries",0,1,0
+18714,Julian Thomas Elementary School,930 Dr Martin Luther King Dr.,Racine,Racine,WI,53404,42.7322951,-87.7954347,"Schools (K-12, elementary, middle, and high)",0,1,0
+17617,Racine County Workforce Development Center,1717 Taylor Ave.,Racine,Racine,WI,53403,42.7094513,-87.8045974,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+18507,Arcadia WIC Clinic,821 West Lincoln Street,Arcadia,Trempealeau,WI,54612,44.2576736,-91.5065032,WIC clinics,0,1,0
+59517,Aram Library,"404 E. Walworth Ave,",Delavan,Walworth,WI,53115,42.632771,-88.643416,Libraries,0,1,0
+28182,FoodWIse UW Extension,"3001 US Highway 12 East, Suite 102",Menomonie,Dunn,WI,54751,44.887352,-91.887098,Extension offices,0,1,0
+72473,Westby Elementary School,122 Nelson St.,Westby,Vernon,WI,54667,43.647993,-90.864704,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14739,Antigo Head Start,2912 Clermont Street,Antigo,Langlade,WI,54409,45.172414,-89.153698,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+72494,Elcho Head Start,N11268 Antigo Street,Elcho,Langlade,WI,54428,45.413361,-89.143347,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18352,Lake Superior Primary,1101 Binsfield,Ashland,Ashland,WI,54806,46.568572,-90.878948,"Schools (K-12, elementary, middle, and high)",0,1,0
+14791,Two Rivers Ecumenical Pantry (TREP),1902 22nd St,Two Rivers,Manitowoc,WI,54241,44.1539,-87.575018,"Food assistance sites, food banks, and food pantries",0,1,0
+72578,Porchlight,306 N. Brooks St,Madison,Dane,WI,53715,43.072445,-89.402939,Emergency shelters and temporary housing sites,0,1,0
+18513,Durand High School - River Valley Alt School,607 - 7th Ave E,Durand,Pepin,WI,54736,44.6304749,-91.9582846,"Schools (K-12, elementary, middle, and high)",0,1,0
+38863,Justice Point,1402 Clark Street,Manitowoc,Manitowoc,WI,54220,44.092887,-87.666467,,0,1,0
+37927,Liberty Grove Senior Meal Site,11161 Old Stage Road,Sister Bay,Door,WI,54234,45.21223,-87.092576,Congregate meal sites & other senior nutrition centers,0,1,0
+19244,Goodrich Senior Dining Site,N3649 Spring Dr,Athens,Marathon,WI,54411,45.1804923,-90.0552759,Congregate meal sites & other senior nutrition centers,0,1,0
+27535,UW-Extension Manitowoc,4319 Expo Drive,Manitowoc,Manitowoc,WI,54220,44.07843,-87.703579,Extension offices,0,1,0
+19234,Rib Lake Senior Dining Site,725 S. Front St.,Rib Lake,Taylor,WI,54470,45.318546,-90.206852,Congregate meal sites & other senior nutrition centers,0,1,0
+19246,Stetsonville Senior Dining Site,412 E Center Ave,Stetsonville,Taylor,WI,54480,45.0782326,-90.309526,Congregate meal sites & other senior nutrition centers,0,1,0
+72741,Westboro Senior Meal Site,N8835 Bus Hwy 13,Westboro,Taylor,WI,54490,45.380745,-90.298152,Congregate meal sites & other senior nutrition centers,0,1,0
+72742,Jump River Senior Meal Site,W14751 River Street,Jump River,Taylor,WI,54434,45.206757,-90.484132,Congregate meal sites & other senior nutrition centers,0,1,0
+15462,Medford Food Pantry,624 E. College Avenue,Medford,Taylor,WI,54451,45.1292938,-90.3359829,"Schools (K-12, elementary, middle, and high)",0,1,0
+55894,Arlington Court Apartments,1633 N. Arlington Place,Milwaukee,Milwaukee,WI,53202,43.05208,-87.895774,Individual homes or public housing sites,0,1,0
+44112,Franklin Elementary School,800 South 35th Street,Manitowoc,Manitowoc,WI,54220,44.092571,-87.690131,"Schools (K-12, elementary, middle, and high)",0,1,0
+17503,Oconomowoc Senior Site,220 W Wisconsin Avenue,Oconomowoc,Waukesha,WI,53066,43.112076,-88.501687,Congregate meal sites & other senior nutrition centers,0,1,0
+17499,Menomonee Falls Community Center,W152 N8645 Margaret Road,Menomonee Falls,Waukesha,WI,53051,43.174845,-88.100714,Congregate meal sites & other senior nutrition centers,0,1,0
+72829,Jill Frideres,1220 Mound Ave,Racine,Racine,WI,53404,42.729156,-87.796006,,0,1,0
+48296,"ADRC Senior Meal Butler Hampton Regency Apts,",12999 W Hampton Ave,Butler,Waukesha,WI,53007,43.104447,-88.074528,,0,1,0
+17502,Sussex Community Center,N64 W23760 Main Street,Sussex,Waukesha,WI,53089,43.134258,-88.22016,Congregate meal sites & other senior nutrition centers,0,1,0
+17864,Maternal & Infant Program,4202 Monona Dr,Madison,Dane,WI,53716,43.075361,-89.32528,Residential treatment centers,0,1,0
+14408,"The Mooring Programs, Inc",201 S. Glenridge Ct.,Appleton,Outagamie,WI,54914,44.259996,-88.463381,Residential treatment centers,0,1,0
+19346,Medford Senior Dining Site,845 E Broadway,Medford,Taylor,WI,54451,45.141816,-90.331806,Congregate meal sites & other senior nutrition centers,0,1,0
+19440,Gilman Senior Dining Center,4th and Main St,Gilman,Taylor,WI,54433,45.1663761,-90.809223,Congregate meal sites & other senior nutrition centers,0,1,0
+37740,Hudson Head Start,701 East 1st Street,Hudson,St. Croix,WI,54016,44.9765583,-92.7594951,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+71932,Necedah Public Library,217 Oak Grove Street,Necedah,Juneau,WI,54646,44.023173,-90.079141,Libraries,0,1,0
+38170,COA Goldin Food Pantry,2320 W Burleigh St,Milwaukee,Milwaukee,WI,53206,43.075648,-87.941273,,0,1,0
+17872,Boscobel Senior Meal Site/Tuffley Senior Center,104 East Oak Street,Boscobel,Grant,WI,53805,43.134549,-90.7045561,Congregate meal sites & other senior nutrition centers,0,1,0
+69704,Green County Aging & Disability Resource Center,N3152 State Rd. 81,Monroe,Green,WI,53566,42.645233,-89.694959,Congregate meal sites & other senior nutrition centers,0,1,0
+44598,Douglas County University of WI Extension Agriculture,"1313 Belknap St., Room 107, Douglas County Courthouse",Superior,Douglas,WI,54880,46.720807,-92.096504,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+18629,Adams Friendship School District Administration Building,201 W 6th Street,Friendship,Adams,WI,53934,43.9678812,-89.8197468,"Other places people go to ""learn""",0,1,1
+14774,Women's Community,3200 Hilltop Avenue,Wausau,Marathon,WI,54401,44.966713,-89.676809,Community organizations,0,1,0
+14695,ADRC Lincoln Lutheran South,5280 Lincoln Village Drive,Racine,Racine,WI,53406,42.7110121,-87.8502831,Group living arrangements,0,1,0
+14696,ADRC Lincoln Lutheran North,3919 Ruby Avenue Apt. 112,Racine,Racine,WI,53402,42.7689972,-87.7838392,Group living arrangements,0,1,0
+18526,Catholic Charities,540 S. 3rd Avenue,Wausau,Marathon,WI,54403,44.957587,-89.63963,Community organizations,0,1,0
+17589,Head Start Beaver Dam,"308 Oneida St,",Beaver Dam,Dodge,WI,53916,43.4620562,-88.8387537,Faith-based centers/places of worship,0,1,0
+73095,Festival Foods,1125 E. Johnson Street,Fond du Lac,Fond du Lac,WI,54935,43.78484,-88.404074,Large food stores and retailers (4+ registers),0,1,0
+17607,Waupaca High School,E2325 King Rd,Waupaca,Waupaca,WI,54981,44.335819,-89.110006,"Schools (K-12, elementary, middle, and high)",0,1,0
+15065,Dellwood Early Learning Center,238 Harriet St.,Clintonville,Waupaca,WI,54929,44.633531,-88.756629,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18603,Columbus Manor Apartments,779 Maple Ave,Columbus,Columbia,WI,53925,43.3417197,-89.0309612,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+18983,Sandburg Elementary,4114 Donald Drive,Madison,Dane,WI,53704,43.136317,-89.312104,"Schools (K-12, elementary, middle, and high)",0,1,0
+87797,Christ Presbyterian Church,944 East Gorham Street,Madison,Dane,WI,53703,43.086367,-89.376305,Faith-based centers/places of worship,0,1,0
+17722,Bridge Lake Point Waunona Neighborhood Center,1917 Lake Point Dr,Madison,Dane,WI,53713,43.048055,-89.347108,Community and recreation centers,0,1,0
+73432,Beyond Shelter,701 Humboldt Ave,Wausau,Marathon,WI,54403,44.970934,-89.62104,,0,1,0
+73433,Beyond Shelter,1105 S. 9th Ave,Wausau,Marathon,WI,54401,44.948023,-89.646375,,0,1,0
+14587,Riverview Apartments,101 Western Ave.,Fond du Lac,Fond du Lac,WI,54935,43.773365,-88.451027,Individual homes or public housing sites,0,1,0
+18213,Portland Square Apartments,55 N Portland Street,Fond du Lac,Fond du Lac,WI,54935,43.7805405,-88.445331,Group living arrangements,0,1,0
+14599,National Church Residences,230 Mill Street,Campbellsport,Fond du Lac,WI,53010,43.599139,-88.282363,Individual homes or public housing sites,0,1,0
+18735,Waller Elementary,195 Gardner Avenue,Burlington,Racine,WI,53105,42.6696997,-88.279101,"Schools (K-12, elementary, middle, and high)",0,1,0
+18114,Renewal Unlimited,920 S University Ave,Beaver Dam,Dodge,WI,53916,43.4445319,-88.8277634,Family resource centers,0,1,0
+73476,Portage Meal Site,111 E Mullet Street,Portage,Columbia,WI,53901,43.538946,-89.457076,,0,1,0
+17402,Poynette Meal Site,106 N. Main Street,Poynette,Columbia,WI,53955,43.391661,-89.402763,Congregate meal sites & other senior nutrition centers,0,1,0
+73487,Maribel Community Center,14905 Mulberry Street,Maribel,Manitowoc,WI,54227,44.277918,-87.805513,,0,1,0
+61164,Barron Cupboard & Closet Food Pantry,411 E. LaSalle Ave.,Barron,Barron,WI,54812,45.400018,-91.85221,"Food assistance sites, food banks, and food pantries",0,1,0
+30117,Bayfield Head Start,128 N 3rd Street,Bayfield,Bayfield,WI,54814,46.808957,-90.817998,"Schools (K-12, elementary, middle, and high)",0,1,0
+73709,Bad River Casino,Us Hwy 2,Odanah,Ashland,WI,54861,46.601654,-90.865517,,0,1,0
+17725,Assisi,1860 27th Ave #100,Kenosha,Kenosha,WI,53140,42.6222549,-87.8424113,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+17511,Lincoln Elementary,210 Gould Street,Beaver Dam,Dodge,WI,53916,43.46138756,-88.82198631,,0,1,0
+17500,Breezewood Village Apartments,400 Sunnyslope Drive,Hartland,Waukesha,WI,53029,43.111618,-88.34035,Congregate meal sites & other senior nutrition centers,0,1,0
+17498,LaCasa Village,1431 S Big Bend Road,Waukesha,Waukesha,WI,53189,42.986888,-88.22249,Congregate meal sites & other senior nutrition centers,0,1,0
+73938,Hmong Kajsiab,4402 Femrite Drive,Madison,Dane,WI,53716,43.051163,-89.307244,Family resource centers,0,1,0
+38644,Plum City Senior Site,501 Main Street,Plum City,Pierce,WI,54761,44.631461,-92.192444,Congregate meal sites & other senior nutrition centers,0,1,0
+14939,Baraboo Food Pantry,100 South Blvd.,Baraboo,Sauk,WI,53913,43.465942,-89.746431,"Food assistance sites, food banks, and food pantries",0,1,0
+17706,Advocates for Healthy Transitional Living,3377 Packerland Drive,De Pere,Brown,WI,54115,44.466071,-88.116341,Community organizations,0,1,0
+14478,Green Valley Enterprises,1223 Madison Street,Beaver Dam,Dodge,WI,53916,43.4476,-88.8490829,Worksites with low-wage workers,0,1,0
+37189,Health and Human Resources Wood County,111 West  Jackson Street,Wisconsin Rapids,Wood,WI,54464,44.392912,-89.82699,,0,1,0
+74025,St. Peter the Fisherman Church,3201 Mishicot Road,Two Rivers,Manitowoc,WI,54241,44.163294,-87.581168,,0,1,0
+74029,New Berlin Sr Mealsite at National Retirement Community,13750 W National Avenue,New Berlin,Waukesha,WI,53151,42.987486,-88.085165,Congregate meal sites & other senior nutrition centers,0,1,0
+17516,Mukwonago Senior Dining at Birchrock Apts,280 Birchrock Way,Mukwonago,Waukesha,WI,53149,42.848261,-88.335072,Congregate meal sites & other senior nutrition centers,0,1,0
+45627,Muskego Sr Meal Site = Stoney Creek Adult Community,S69W14142 Tess Corners Drive,Muskego,Waukesha,WI,53150,42.920783,-88.090023,Congregate meal sites & other senior nutrition centers,0,1,0
+17495,Brookfield Community Center,2000 N Calhoun Road,Brookfield,Waukesha,WI,53005,43.05658,-88.125411,Congregate meal sites & other senior nutrition centers,0,1,0
+17883,Twin Oaks Shelter for the homeless,W 9665 US-14,Darien,Walworth,WI,53114,42.6522394,-88.7754469,Emergency shelters and temporary housing sites,0,1,0
+45818,Columbus Meal Site,125 N Dickason Blvd,Columbus,Columbia,WI,53916,43.339291,-89.015615,,0,1,0
+17988,Kenosha County Center,19600 75th Street,Bristol,Kenosha,WI,53104,42.5698504,-88.0442779,Community organizations,0,1,0
+14683,Kenosha County UW-Extension,"19600 – 75th Street, Suite 2",Bristol,Kenosha,WI,53104,42.568589,-88.045312,Extension offices,0,1,0
+74235,Reeseville Meal Site,"400 N Main St. Reeseville, WI",Reeseville,Dodge,WI,53579,43.308419,-88.841979,,0,1,0
+74245,Lighthouse Christian Church,401 S. National Ave.,Fond du Lac,Fond du Lac,WI,54935,43.767497,-88.41935,Faith-based centers/places of worship,0,1,0
+80301,Jackson Elementary School Sheboygan,2530 Weeden Creek,Sheboygan,Sheboygan,WI,53081,43.702605,-87.741486,"Schools (K-12, elementary, middle, and high)",0,1,0
+74359,Jensen Center,487 N Main St.,Amherst,Portage,WI,54406,44.457106,-89.285,Community organizations,0,1,0
+14443,Romeis Apts,509 High Street,Chippewa Falls,Chippewa,WI,54729,44.939867,-91.392676,Individual homes or public housing sites,0,1,0
+18287,Lutheran Social Services of Wisconsin and Upper Michigan,323 W. Court St. Unit #100,Elkhorn,Walworth,WI,53121,42.6724128,-88.5501845,Individual homes or public housing sites,0,1,0
+36388,Lutheran Social Services of Wisconsin and Upper Michigan,250 Havenwood Dr.,Lake Geneva,Walworth,WI,53147,42.592552,-88.426718,"Schools (K-12, elementary, middle, and high)",0,1,0
+74400,Kro Bar Senior Meal Site,13920 US hwy 2,Brule,Douglas,WI,54820,46.550202,-91.57849,Restaurants,0,1,0
+14845,Food Distribution,P.O. Box 910,Keshena,Menominee,WI,54135,44.88646,-88.575133,"Food assistance sites, food banks, and food pantries",0,1,0
+17917,Acelero Learning at NGN,1220 Mound Ave.,Racine,Racine,WI,53404,42.7291505,-87.7960299,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18382,Acelero Learning on Grand Avenue,1032 Grand Ave.,Racine,Racine,WI,53403,42.7204762,-87.7887669,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+18647,Acelero Learning on Green Street,1923 Green St,Racine,Racine,WI,53402,42.7454682,-87.7898581,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+15238,Howe Community Resource Center,526 S. Monroe Ave.,Green Bay,Brown,WI,54301,44.5077558,-88.0136964,Family resource centers,0,1,0
+14809,Marinette Cty Health & Human Services,2500 Hall Ave,Marinette,Marinette,WI,54143,45.0998173,-87.6310227,"Other places people go to ""learn""",0,1,0
+14730,Crescent Elementary School,3319 Boyce Dr.,Rhinelander,Oneida,WI,54501,45.625009,-89.434896,"Schools (K-12, elementary, middle, and high)",0,1,0
+18271,WIC Walworth County,W4051 County Rd NN,Elkhorn,Walworth,WI,53121,42.6620428,-88.4990028,WIC clinics,0,1,0
+17866,Wileman Elementary School,"1001 E Geneva St,",Delavan,Walworth,WI,53115,42.6280753,-88.6310001,"Schools (K-12, elementary, middle, and high)",0,1,0
+74685,Kettle Moraine YMCA - River Shores Branch,"705 Village Green Way #201, West Bend, WI  53090",West Bend,Washington,WI,53090,43.4308,-88.183677,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+74693,Portage WIC clinic,111 E Mullet Street,Portage,Columbia,WI,53901,43.538946,-89.457076,,0,1,0
+15024,Samson House,611 N Grand Avenue,Waukesha,Waukesha,WI,53186,43.009311,-88.231335,Group living arrangements,0,1,0
+73961,Hudson YMCA,2211 Vine St,Hudson,St. Croix,WI,54016,44.978987,-92.728282,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+74712,Buena Vista Apartments,627 Second St.,Hudson,St. Croix,WI,54016,44.976767,-92.757207,Individual homes or public housing sites,0,1,0
+74739,Heather Meadows,235 Winnebago Street,North Fond du Lac,Fond du Lac,WI,54937,43.806298,-88.488463,Individual homes or public housing sites,0,1,0
+28254,Shalom Center,"1713 62nd Street, Kenosha, WI 53143 (262) 658-1713",Kenosha,Kenosha,WI,53143,42.5783117,-87.8304409,Emergency shelters and temporary housing sites,0,1,0
+14682,Kenosha Achievement Center,1218 79th St,Kenosha,Kenosha,WI,53143,42.56042163,-87.8242174,"Adult education, job training, temporary assistance for needy families (TANF), and veteran services sites",0,1,0
+17991,La Crosse County Health Department,300 4th Street,La Crosse,La Crosse,WI,54610,43.8146734,-91.2486411,Health care clinics and hospitals,0,1,1
+17648,Badger Prairie Needs Network,"1200 E Verona Ave,",Verona,Dane,WI,53593,42.9953369,-89.5144263,"Food assistance sites, food banks, and food pantries",0,1,0
+55889,Soujourner Family Peace Center,"619 W Walnut St,",Milwaukee,Milwaukee,WI,53212,43.051849,-87.919324,Group living arrangements,0,1,0
+14736,Rhinelander Area Food Pantry,627 Coon St.,Rhinelander,Oneida,WI,54501,45.6318354,-89.4023143,"Food assistance sites, food banks, and food pantries",0,1,0
+74883,Penfield Montessori Academy,1441 N 24th Street,Milwaukee,Milwaukee,WI,53205,43.049497,-87.943179,"Schools (K-12, elementary, middle, and high)",0,1,0
+74893,Northwest Connections Family Resource,15896 W 3rd St,Hayward,Sawyer,WI,54843,46.013781,-91.48806,Family resource centers,0,1,0
+19014,WIC - E. Washington,2705 E Washington Ave,Madison,Dane,WI,53704,43.102148,-89.345141,WIC clinics,0,1,0
+74937,Hustisford Meal Site,266 S Lake Street,Hustisford,Dodge,WI,53034,43.343414,-88.600317,,0,1,0
+14410,Boys and Girls Club of Menasha,600 Racine st,Menasha,Winnebago,WI,54952,44.208392,-88.446166,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+74947,UW School Of Pharmacy,777 Highland Avenue,Madison,Dane,WI,53705,43.077983,-89.42722,Health care clinics and hospitals,0,1,0
+74951,MPS Martin Luther King Jr. Elementary School,3275 N 3rd St,Milwaukee,Milwaukee,WI,53212,43.078191,-87.914204,"Schools (K-12, elementary, middle, and high)",0,1,0
+14789,Manitowoc County Senior Meal Sites,4319 Expo Drive,Manitowoc,Manitowoc,WI,54220,44.07843,-87.703579,Congregate meal sites & other senior nutrition centers,0,1,0
+27420,Manitowoc County Head Start,1130 S. 9th St.,Manitowoc,Manitowoc,WI,54220,44.085675,-87.659719,Community organizations,0,1,0
+15303,Burr Oaks Senior Apartments,2417 Cypress Way,Madison,Dane,WI,53713,43.0390029,-89.3971477,Congregate meal sites & other senior nutrition centers,0,1,0
+75210,Lake Comus Court Apartments,207 Mcdowell St,Delavan,Walworth,WI,53115,42.634562,-88.646462,Individual homes or public housing sites,0,1,0
+37064,"Aram Public Library Delavan, WI",404 E. Walworth Ave,Delavan,Walworth,WI,53115,42.6326746,-88.6433782,Libraries,0,1,0
+75212,New Beginnings APFV,143 W. Main St,Whitewater,Walworth,WI,53190,42.833742,-88.730795,Community organizations,0,1,0
+15306,Catholic Multicultural Center,1862 S. Beld Street,Madison,Dane,WI,53713,43.04594,-89.393541,Community organizations,0,1,0
+46558,Sauk Prairie Food Pantry,821 Industry Road,Sauk City,Sauk,WI,53583,43.26711,-89.733096,,0,1,0
+75243,Camp Adventure Beaver Dam Park and Rec,411 Haskell Street,Beaver Dam,Dodge,WI,53916,43.454647,-88.848554,,0,1,0
+14740,Antigo Middle School,815 Seventh Avenue,Antigo,Langlade,WI,54409,45.136928,-89.155364,"Schools (K-12, elementary, middle, and high)",0,1,0
+37940,Hope House of Manitowoc,1000 South 35th Street,Manitowoc,Manitowoc,WI,54220,44.087822,-87.691223,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+17911,Boys and Girls Club of Door County,55 South 3rd Street,Sturgeon Bay,Door,WI,54235,44.833512,-87.375964,Before and after-school programs,0,1,0
+14500,Hispanic Resource Center of Door and Kewaunee Counties,1618 Texas Place,Sturgeon Bay,Door,WI,54235,44.828951,-87.354635,Community and recreation centers,0,1,0
+14726,La Crosse County Aging,300 4th Street North,La Crosse,La Crosse,WI,54601,43.814734,-91.248717,Congregate meal sites & other senior nutrition centers,0,1,0
+19263,Hunger Task Force of La Crosse,1240 Clinton St,La Crosse,La Crosse,WI,54603,43.841221,-91.239319,"Food assistance sites, food banks, and food pantries",0,1,0
+75340,Boys and Girls Club of Janesville,200 W. Court Street,Janesville,Rock,WI,53548,42.68182,-89.026296,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+75390,Walmart-Dodgeville,601 E Lefler St.,Dodgeville,Iowa,WI,53533,42.974373,-90.118133,Large food stores and retailers (4+ registers),0,1,0
+14636,Seniors United for Nutrition (SUN),303 W. Chapel Street,Dodgeville,Iowa,WI,53533,42.96156935,-90.13399272,Congregate meal sites & other senior nutrition centers,0,1,0
+73021,Muscoda Housing Unit - Meridian,340. N. Minnesota St.,Muscoda,Grant,WI,53573,43.188332,-90.447319,Individual homes or public housing sites,0,1,0
+75435,Bright Futures,76 Western Ave,Fond du Lac,Fond du Lac,WI,54935,43.773216,-88.45009,,0,1,0
+17523,Merril Crest Waukesha City Park,616 University Drive,Waukesha,Waukesha,WI,53188,43.0063016,-88.2728226,Parks and open spaces,0,1,0
+14466,"Northwoods of WI, Inc",N6510 Hwy 16-51,Portage,Columbia,WI,53901,43.551825,-89.484207,Worksites with low-wage workers,0,1,0
+17541,Darlington United Methodist Church,546 Park Place,Darlington,Lafayette,WI,53530,42.681602,-90.118687,"Other places people go to ""learn""",0,1,0
+71705,MPS Hawthorne,6945 N 41st St,Milwaukee,Milwaukee,WI,53209,43.14404,-87.964281,"Schools (K-12, elementary, middle, and high)",0,1,0
+75571,MPS Gwen T. Jackson Elementary School,2121 W Hadley St,Milwaukee,Milwaukee,WI,53206,43.068716,-87.939244,"Schools (K-12, elementary, middle, and high)",0,1,0
+19562,Gebhardt Elementary,411 Gebhardt Rd,Black River Falls,Jackson,WI,54615,44.281807,-90.842072,"Food assistance sites, food banks, and food pantries",0,1,0
+45565,MPS Westside Academy,1945 N 31st Street,Milwaukee,Milwaukee,WI,53208,43.055765,-87.953202,"Schools (K-12, elementary, middle, and high)",0,1,0
+18063,MPS Sherman Multicultural Arts School,5110 W Locust Street,Milwaukee,Milwaukee,WI,53210,43.072537,-87.977899,"Schools (K-12, elementary, middle, and high)",0,1,0
+47931,Cross Lutheran Church,1821 N 16th Street,Milwaukee,Milwaukee,WI,53205,43.054312,-87.933008,Faith-based centers/places of worship,0,1,0
+75595,UW Whitewater,809 W Starin RD.,Whitewater,Walworth,WI,53190,42.839635,-88.743288,Community organizations,0,1,0
+18386,Acelero Learning in Burlington,209 Wainwright Avenue,Burlington,Racine,WI,53105,42.6694518,-88.2736933,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+19236,Neighborhood House Community Center,"29 S Mills St,",Madison,Dane,WI,53715,43.066781,-89.403668,Community and recreation centers,0,1,0
+18579,Warner Park Community Center,"1625 Northport Dr, Madison",Madison,Dane,WI,53704,43.132235,-89.371061,Community and recreation centers,0,1,0
+17522,Lowell Waukesha City Park,2201 Michigan Avenue,Waukesha,Waukesha,WI,53188,43.016432,-88.262728,Parks and open spaces,0,1,0
+18631,HHRC ProHealth Community Garden,711 Madison Street,Waukesha,Waukesha,WI,53186,43.013582,-88.241262,Gardens,0,1,0
+17528,Sentinel Waukesha City Park,Madera Street and Sentinel Drive,Waukesha,Waukesha,WI,53189,42.9802129,-88.2343579,Parks and open spaces,0,1,0
+15031,Waukesha County Technical College (WCTC) - Childcare Program,800 Main Street,Pewaukee,Waukesha,WI,53072,43.071884,-88.255004,Schools (colleges and universities),0,1,0
+75751,Center St. Library,2727 W Fond Du Lac Ave,Milwaukee,Milwaukee,WI,53210,43.067242,-87.947695,Libraries,0,1,0
+14807,DAR Boys & Girlds Club of Marinette/Menomonie,901 8th St,Menomonie,Dunn,WI,49858,45.107057,-87.612105,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+27117,Department of Health and Human Services,2500 Hall Ave.,Marinette,Marinette,WI,54143,45.0997971,-87.6408079,WIC clinics,0,1,0
+18683,Madison Senior Center,330 W Mifflin Street,Madison,Dane,WI,53703,43.073014,-89.389685,Congregate meal sites & other senior nutrition centers,0,1,0
+17912,West High School,966 Shawano Avenue,Green Bay,Brown,WI,54303,44.5212964,-88.0330037,"Schools (K-12, elementary, middle, and high)",0,1,0
+15141,"Barron County Developmental Services, Inc.",175 North Lake Street,Barron,Barron,WI,54812,45.40304041,-91.86354703,Community organizations,0,1,0
+14792,Manitowoc-Two Rivers YMCA,205 Maritime Dr,Manitowoc,Manitowoc,WI,54220,44.094149,-87.652823,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+75963,Wisconsin Rapids Farmers Market,"220 1st Avenue South, Wisconsin Rapids, WI 54494",Wisconsin Rapids,Wood,WI,54494,44.391778,-89.8287,Farmers markets,0,1,0
+37673,FUMC Food Pantry,1531 Hughitt Ave.,Superior,Douglas,WI,54880,46.7196821,-92.0994517,"Food assistance sites, food banks, and food pantries",0,1,0
+76108,De Soto Middle School,"615 Main St, De Soto",De Soto,Vernon,WI,54624,43.428554,-91.195308,"Schools (K-12, elementary, middle, and high)",0,1,0
+17855,Pick 'n Save,2811 18th St,Kenosha,Kenosha,WI,53140,42.6232172,-87.8446242,Large food stores and retailers (4+ registers),0,1,0
+19429,Brown County UW Extension,2019 Technology Way,Green Bay,Brown,WI,54302,44.5178252,-88.0185909,Extension offices,0,1,1
+62173,Somali COMSA,1600 W Shawano Ave Suite 108,Green Bay,Brown,WI,54303,44.530443,-88.060851,Community organizations,0,1,0
+76372,Casa Guadalupe Education Center Inc.,419 Roosevelt Dr.,West Bend,Washington,WI,53090,43.441294,-88.184331,"Other places people go to ""learn""",0,1,0
+58542,Marian Housing,4105 Spring St.,Racine,Racine,WI,53405,42.734573,-87.827431,Individual homes or public housing sites,0,1,0
+19530,LCO Reserve Elders,13865 W Agency Road,Stone Lake,Sawyer,WI,54843,45.881384,-91.387278,,0,1,0
+76478,Racine Public Library,75 7th Street,Racine,Racine,WI,53403,42.725656,-87.780872,Libraries,0,1,0
+76521,Hammond Park,1920 Hammond Park,Superior,Douglas,WI,54880,46.715485,-92.097805,USDA Summer Meal sites,0,1,0
+14582,Fond du Lac County Social Services,"87 Vincent St., PO Box 1196",Fond du Lac,Fond du Lac,WI,54935,43.775954,-88.430278,Residential treatment centers,0,1,0
+57938,UMOS,265 N High Street,Randolph,Dodge,WI,53965,43.5418,-89.00715,,0,1,0
+76551,Camp Crystal Beaver Dam Park and Rec,N7190 N Crystal Lake Rd,Beaver Dam,Dodge,WI,53916,43.466482,-88.862852,,0,1,0
+76584,Frame Church,1300 Main Street,Stevens Point,Portage,WI,54482,44.523673,-89.580077,Faith-based centers/places of worship,0,1,0
+76603,South Madison Partnership,2312 South Park St,Madison,Dane,WI,53713,43.041047,-89.395181,Family resource centers,0,1,0
+14555,Forest County Public Health,200 Madison St.,Crandon,Forest,WI,54520,45.569233,-88.899328,Health care clinics and hospitals,0,1,0
+15027,Stonegate Apartments,N68 W24955 Stonegate Crt Suite 101,Sussex,Waukesha,WI,53089,43.14188,-88.242916,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+76753,Croft Place Apartments,233 Croft Street,New Richmond,St. Croix,WI,54017,45.10329,-92.535518,Individual homes or public housing sites,0,1,0
+76839,Gordon Town Hall,9709 County Rd Y,Gordon,Douglas,WI,54838,46.165579,-91.93471,Congregate meal sites & other senior nutrition centers,0,1,0
+15475,Taylor County Commission On Aging,845 East Broadway,Medford,Taylor,WI,54451,45.141816,-90.331806,Congregate meal sites & other senior nutrition centers,0,1,0
+76965,Boys and Girls Club - Middle School,204 Cameron Road,Rice Lake,Barron,WI,54868,45.499771,-91.753896,Before and after-school programs,0,1,0
+76966,Boys and Girls club - Lincoln House,426 N. Wilson Ave,Rice Lake,Barron,WI,54868,45.505698,-91.736662,Before and after-school programs,0,1,0
+76967,Boys and Girls club - Lincoln House-2nd grade,426 N. Wilson Ave,Rice Lake,Barron,WI,54868,45.505698,-91.736662,Before and after-school programs,0,1,0
+76968,Boys and Girls club - Lincoln House/ 3rd grade,426 N. Wilson Ave,Rice Lake,Barron,WI,54868,45.505698,-91.736662,Before and after-school programs,0,1,0
+76969,Boys and Girls club - Lincoln House/4th grade,426 N. Wilson Ave,Rice Lake,Barron,WI,54868,45.505698,-91.736662,Before and after-school programs,0,1,0
+27248,Washington County Juvenile Detention Center,500 N. Schmidt Rd.,West Bend,Washington,WI,53095,43.428153,-88.171987,,0,1,0
+77067,St Croix Chippewa Indians of Wisconsin,24663 Angeline Ave,Webster,Burnett,WI,54893,45.809414,-92.205473,Indian reservations,0,1,0
+27651,Grantsburg Village Office,316 South Brad Street,Grantsburg,Burnett,WI,54840,45.776959,-92.679761,"Food assistance sites, food banks, and food pantries",0,1,0
+77076,Big Flats Town Hall,1104 County Road C,Arkdale,Adams,WI,54613,44.02719,-89.8879,,0,1,0
+60153,mount pleasant cop,2237 Mead St.,Racine,Racine,WI,53403,42.70229,-87.792347,Community organizations,0,1,0
+60554,Eco Justice Center,7133 Michna Rd.,Racine,Racine,WI,53402,42.816319,-87.82373,Farmers markets,0,1,0
+14453,River Heights Elementary,615 24th Avenue West,Menomonie,Dunn,WI,54751,44.861298,-91.936102,"Schools (K-12, elementary, middle, and high)",0,1,0
+77184,NE YMCA Sun Prairie,1470 Don Simon Dr,Sun Prairie,Dane,WI,53590,43.160967,-89.263041,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+28440,Almena Senior Center,232 Soo Ave. W.,Almena,Barron,WI,54805,45.4176715,-92.0420884,Congregate meal sites & other senior nutrition centers,0,1,0
+19452,Kinship,15 E. Wisconsin Avenue,Tomahawk,Lincoln,WI,54487,45.471242,-89.728929,"Youth Organizations (e.g. Boys or Girls Clubs, YMCA)",0,1,0
+15066,Lincoln Elementary School,201 E. Washington St.,New London,Waupaca,WI,54961,44.386948,-88.737705,"Schools (K-12, elementary, middle, and high)",0,1,0
+76652,Dover Healing House,"23303 Church Road Kansasville Dover, Wisconsin 53159",Racine,Racine,WI,53403,42.712724,-88.114605,Emergency shelters and temporary housing sites,0,1,0
+18296,Lutheran Social Services of Wisconsin and Upper Michigan,1385 Elkhorn Dr.,Lake Geneva,Walworth,WI,53147,42.606391,-88.444943,Individual homes or public housing sites,0,1,0
+19420,Albrecht Free Clinic of Washington County,908 W. Washington St.,West Bend,Washington,WI,53095,43.427198,-88.187826,Health care clinics and hospitals,0,1,0
+47908,Farmers Market On Broadway,163 N. Broadway,Green Bay,Brown,WI,54302,44.515576,-88.022007,Farmers markets,0,1,0
+19292,ACAP-Adaptive Community Approach Program,121 W Wisconsin Avenue,Waukesha,Waukesha,WI,53186,43.009357,-88.227738,Community organizations,0,1,0
+14719,Saxony Manor (Replaces WIC Seniors Kenosha),"1876 22nd Ave, Kenosha, WI 53140",Kenosha,Kenosha,WI,53143,42.62198941,-87.83598333,Group living arrangements,0,1,0
+19636,New Beginnings,4 Cornell Ave,Rice Lake,Barron,WI,54868,45.501831,-91.741478,Residential treatment centers,0,1,0
+14846,Menominee Tribal School,BIA Rte 431,Neopit,Menominee,WI,54150,44.9797675,-88.8317899,"Schools (K-12, elementary, middle, and high)",0,1,0
+77212,menominee reservation,hwy 47/55 keshena wi,Keshena,Menominee,WI,54135,44.885069,-88.639121,Indian reservations,0,1,0
+27012,Haven,1106 E. 8th St.,Merrill,Lincoln,WI,54452,45.1869036,-89.6848206,Emergency shelters and temporary housing sites,0,1,0
+78970,Extension Eau Claire County,227 1st Street West,Altoona,Eau Claire,WI,54720,44.806719,-91.435012,Extension offices,0,1,0
+14776,Tomahawk Food Pantry,1104 School Road,Tomahawk,Lincoln,WI,54487,45.472251,-89.712817,"Food assistance sites, food banks, and food pantries",0,1,0
+47149,Jenny Towers,711 E 1st Street,Merrill,Lincoln,WI,54452,45.180201,-89.68906,Individual homes or public housing sites,0,1,0
+78999,Stone Bridge,307 W Main Street,Merrill,Lincoln,WI,54452,45.17875,-89.705211,Individual homes or public housing sites,0,1,0
+79029,Washingon Heights Apts.,525 N Main St.,Hartford,Washington,WI,53027,43.323533,-88.379197,Congregate meal sites & other senior nutrition centers,0,1,0
+79090,Rock County Job Center,1900 Center Ave.,Janesville,Rock,WI,53545,42.650916,-89.033057,Community organizations,0,1,0
+79244,Columbus Fire Station,105 N. Dickason Blvd.,Columbus,Columbia,WI,53925,43.339309,-89.0157,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+79305,Rome Alpine Village,Hwy 13,Rome,Jefferson,WI,53137,43.008958,-88.6726,Farmers markets,0,1,0
+15403,WIC - E Washington,2300 South Park Street Ste 2010,Madison,Dane,WI,53713,43.041054,-89.395186,Family resource centers,0,1,0
+19251,WIC,2707 E Washington Ave,Madison,Dane,WI,53704,43.102148,-89.345141,,0,1,0
+79417,Native Wellness Garden,3782 S 6th St.,Milwaukee,Milwaukee,WI,53221,42.975895,-87.919155,Gardens,0,1,0
+18493,Fondy Farmers Market,2200 W Fond Du Lac Ave,Milwaukee,Milwaukee,WI,53206,43.061844,-87.939487,Farmers markets,0,1,0
+60555,Hawthorn Hallow,880 Green Bay Rd.,Kenosha,Kenosha,WI,53144,42.649111,-87.87678,,0,1,0
+27646,Atonement Food Pantry,"2915 Wright Ave,",Racine,Racine,WI,53403,42.7148524,-87.8141815,"Food assistance sites, food banks, and food pantries",0,1,0
+14634,Pheasant Run Housing Unit - Allegiant Property,906 Vincent Street,Dodgeville,Iowa,WI,53533,42.96564723,-90.12378682,Individual homes or public housing sites,0,1,0
+17848,Milwaukee County Day Reporting Center,"3732 W. Wisconsin Avenue, Suite 106",Milwaukee,Milwaukee,WI,53208,43.039076,-87.960454,"Other places people go to ""learn""",0,1,0
+26334,Homes for Independent Living- Jordan/Canaan House,2165 Laura Lane,Waukesha,Waukesha,WI,53186,43.033296,-88.186439,Group living arrangements,0,1,0
+79715,Village Square Apartments/Lutheran Social Services,204 Madison St.,Walworth,Walworth,WI,53184,42.532302,-88.6005,Individual homes or public housing sites,0,1,0
+55955,West Allis Farmers Market,6501 W. National Ave.,West Allis,Milwaukee,WI,53219,43.014498,-87.993713,,0,1,0
+47801,Thelma Orr COP House,1146 Villa Street,Racine,Racine,WI,53403,42.719295,-87.787224,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+47066,Hidden Valley Community Church,Bennett Road,Dodgeville,Iowa,WI,53533,42.969595,-90.113079,Congregate meal sites & other senior nutrition centers,0,1,0
+79752,Shullsburg Senior Meal Site  - SUN,190 N Judgement Street,Shullsburg,Lafayette,WI,53586,42.572144,-90.230637,Congregate meal sites & other senior nutrition centers,0,1,0
+79189,Ascension Lutheran Church,1415 Dopp Street,Waukesha,Waukesha,WI,53186,43.008974,-88.252809,Faith-based centers/places of worship,0,1,0
+28103,Pine Grove Apartment,398 N Grant Street,Adams,Adams,WI,53910,43.962851,-89.816126,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+80037,Head Start Necedah,1000 Farnum Dr.,Necedah,Juneau,WI,54646,44.035636,-90.080494,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+80040,Head Start Center Mauston,201 Oak St.,Mauston,Juneau,WI,53948,43.79543,-90.077028,"Early care and education facilities (includes child care centers and day care homes as well as Head Start, preschool, and pre-kindergarten programs)",0,1,0
+14965,Project 1649 Robin's House,Broad Street,Beloit,Rock,WI,53511,42.498805,-89.0369349,Emergency shelters and temporary housing sites,0,1,0
+80068,Adams Senior Village Apartments,549 W. North Street,Adams,Adams,WI,53910,43.96657,-89.82327,Individual homes or public housing sites,0,1,0
+80121,WalMart Wisconsin Rapids,4331 8th St S,Wisconsin Rapids,Wood,WI,54494,44.354552,-89.814106,Large food stores and retailers (4+ registers),0,1,0
+14573,LCO Community Health Center,13380 W Trepania Rd,Hayward,Sawyer,WI,54843,45.942463,-91.360686,Health care clinics and hospitals,0,1,0
+80299,Spooner Agricultural Research Station,"W6646 WI-70, Spooner, WI 54801",Spooner,Washburn,WI,54801,45.813928,-91.785178,,0,1,0
+47007,"Avail, Inc",P.O. Box 355,Antigo,Langlade,WI,54409,45.160809,-89.093942,Emergency shelters and temporary housing sites,0,1,0
+61647,ASEND,Neenah,Neenah,Winnebago,WI,54957,44.198944,-88.678863,Group living arrangements,0,1,0
+60175,Antigo Area Community Food Pantry,2120 Progress BLVD,Antigo,Langlade,WI,54409,45.160957,-89.151387,"Food assistance sites, food banks, and food pantries",0,1,1
+47010,Antigo Housing Authority,535 3rd Avenue,Antigo,Langlade,WI,54409,45.142976,-89.150109,Individual homes or public housing sites,0,1,0
+14741,Boys and Girls Club of Langlade County,411 Superior Street,Antigo,Langlade,WI,54409,45.138087,-89.152191,Before and after-school programs,0,1,0
+79521,Olen Park,10 Memorial Circle,Clintonville,Waupaca,WI,54929,44.620522,-88.758122,,0,1,0
+55960,Viroqua High School (Bigley Pool),100 Blackhawk Dr.,Viroqua,Vernon,WI,54665,43.558211,-90.899716,Community organizations,0,1,0
+18700,The CLUB at the Y,812 Broughton Ave,Sheboygan,Sheboygan,WI,53081,43.7531624,-87.7047159,Before and after-school programs,0,1,0
+80164,Racine Youth Offender Correctional Facility,"1501 Albert St Racine, WI 53404",Racine,Racine,WI,53404,42.736634,-87.799361,"Other neighborhood settings where people ""live"" or live nearby",0,1,0
+18267,Westby Crestview Apartments,503 South Main St.,Westby,Vernon,WI,54667,43.6493897,-90.8593655,Group living arrangements,0,1,0
+60714,Sheboygan Farmers Market,922 N 8th St,Sheboygan,Sheboygan,WI,53081,43.754856,-87.713195,Farmers markets,0,1,0
+59044,Wallmart,250 Crossroads Drive,Plover,Portage,WI,54467,44.492576,-89.509773,,0,1,0
+46932,Central Wisconsin Childrens Museum,1100 Main St,Stevens Point,Portage,WI,54481,44.523596,-89.583326,Family resource centers,0,1,0
+17792,Menominee Food Distribution,PO Box 910,Keshena,Menominee,WI,54135,44.8838712,-88.6337152,Food distribution program on Indian reservations (FDPIR) distribution sites,0,1,0
+14840,Maehnowesekiyah,N2150 Kesaehkahtek Rd.,Gresham,Shawano,WI,54128,44.85303,-88.78816,Community organizations,0,1,0
+14721,La Crosse Salvation Army,223 North 8th Street,La Crosse,La Crosse,WI,54601,43.806197,-91.140529,Emergency shelters and temporary housing sites,0,1,0
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1
+,,,,,,,,,,0,0,1

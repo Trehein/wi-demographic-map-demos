@@ -1,0 +1,103 @@
+﻿OBJECTID,UNIQUE_ID,FACILITY_NAME,ADDRESS,ADDRESS_2,CITY,STATE,ZIP,LAT,LON,COUNTY,PHONE,URL
+1,1,AIDS Resource Center of Wisconsin,820 N Plankinton Ave,,Milwaukee,WI,53203,43.04058,-87.91227,Milwaukee,414-273-1991,http://arcw.org/
+2,2,AIDS Resource Center of Wisconsin,600 Williamson St Ste H,,Madison,WI,53703,43.076819,-89.374587,Dane,608- 252-6540,http://arcw.org/
+3,3,AIDS Resource Center of Wisconsin,445 S Adams St,,Green Bay,WI,54301,44.508898,-88.017585,Brown,920- 437-7400,http://arcw.org/
+4,4,AIDS Resource Center of Wisconsin,1212 57th St,,Kenosha,WI,53140,42.583509,-87.825614,Kenosha,262-657-6644,http://arcw.org/
+5,5,AIDS Resource Center of Wisconsin,633C W Wisconsin Ave,,Appleton,WI,54911,44.27259,-88.415127,Outagamie,920-733-2068,http://arcw.org/
+6,6,AIDS Resource Center of Wisconsin,811 Rose St,,La Crosse,WI,54603,43.836182,-91.248604,La Crosse,608-785-9866,http://arcw.org/
+7,7,AIDS Resource Center of Wisconsin,1105 Grand Ave Ste 1,,Schofield,WI,54476,44.917007,-89.611382,Marathon,715-355-6867,http://arcw.org/
+8,8,AIDS Resource Center of Wisconsin,505 S Dewey St Ste 107,,Eau Claire,WI,54701,44.810204,-91.494972,Eau Claire,715-836-7710,http://arcw.org/
+9,9,AIDS Resource Center of Wisconsin,136 W Grand Ave Ste 290,,Beloit,WI,53511,42.501041,-89.03755,Rock,608-364-4027,http://arcw.org/
+10,10,AIDS Resource Center of Wisconsin,1507 Tower Ave Ste 230,,Superior,WI,54880,46.720327,-92.104123,Douglas,715-394-4009,http://arcw.org/
+11,11,Albrecht Free Clinic,908 W Washington St,,West Bend,WI,53095,43.427319,-88.187863,Washington,262-334-8339,www.albrechtfreeclinic.org
+12,12,American Community Wellness Center,1421 S Park St,,Madison,WI,53715,43.05083,-89.39378,Dane,608-441-6888,https://www.facebook.com/ACMCmadison/
+13,13,American Medical Laboratories,1421 S Park St,,Madison,WI,53715,43.05083,-89.39378,Dane,608-957-3000,http://www.americanmedicallaboratories.org/
+14,14,Angel of Hope,209 W Orchard St,,Milwaukee,WI,53204,43.015883,-87.91301,Milwaukee,414 -647-7466,https://www.mywheaton.org/locations/clinics/profile/?id=205
+15,15,Aurora Walker's Point Community Clinic,130 W Bruce St Ste 200,,Milwaukee,WI,53204,43.02542,-87.91218,Milwaukee,414-384-1400,https://www.aurorahealthcare.org/locations/clinic/aurora-uw-medical-group-walkers-point-community-clinic
+16,16,Back to Basics Community Clinic,1370 S Commercial St,,Neenah,WI,54956,44.16338,-88.46469,Winnebago,920-840-0188,https://www.facebook.com/back2basicsclinic/
+17,17,Bella Medical Clinic,1484 W South Park Ave,,Oshkosh,WI,54902,43.99784,-88.57307,Winnebago,920-231-6006,https://bellamedicalclinic.org/
+18,18,Benevolent Specialist Project-Free Clinic (BSP),2711 Allen Blvd Lowr Level,,Middleton,WI,53562,43.10432,-89.48595,Dane,608-827-2308,www.deancare.com/foundation
+19,19,BESTD Clinic,1240 E Brady St,,Milwaukee,WI,53202,43.053203,-87.895555,Milwaukee,414-272-2144,http://www.bestd.org/
+20,20,Bread of Healing - Cross Lutheran Church,1821 N 16th St,,Milwaukee,WI,53205,43.054248,-87.93311,Milwaukee,414-977-0001,www.breadofhealingclinic.org
+21,21,Bread of Healing - Eastbrook Church,5385 N Green Bay Ave,,Milwaukee,WI,53209,43.114546,-87.935221,Milwaukee,414-228-5520,www.breadofhealing.org www.eastbrookchurch.org
+22,22,Bread of Healing - Florist Avenue Lutheran Church Clinic,5975 N 40th St,,Milwaukee,WI,53209,43.126246,-87.962521,Milwaukee,414-216-3456,www.breadofhealing.org
+23,23,"Brentwood Health Organization, Inc.",6825 W Brown Deer Rd ,PO Box 240694,Milwaukee,WI,53223,43.177599,-87.995212,Milwaukee,414-899-0235,www.Brentwoodhealth1.org
+24,24,Brown County Oral Health Partnership (West Location),2247 Fox Heights Ln,,Green Bay,WI,54304,44.490043,-88.061967,Brown,920-965-0831,http://www.browncountyohp.org/
+25,25,Brown County Oral Health Partnership (Central/Howe) The Howe Family Resource Center,the Howe Family Resource Center 526 S Monroe Ave,,Green Bay,WI,54301,44.506713,-88.014643,Brown,920-965-0831,http://www.browncountyohp.org/
+26,26,Brown County Oral Health Partnership (East/Kroc) The Salvation Army Kroc Center,the Salvation Army Kroc Center 1315 Lime Kiln Rd,,Green Bay,WI,54311,44.481582,-87.979439,Brown,920-965-0831,http://www.browncountyohp.org/
+27,27,Charles Mason Free Clinic,3500 W Mother Daniels Way,,Milwaukee,WI,53209,43.10723,-87.956847,Milwaukee,414-466-4115,www.hrcogic.org
+28,28,Chippewa Valley Free Clinic,816 Porter Ave,,Eau Claire,WI,54701,44.805712,-91.497438,Eau Claire,715-839-8477,www.cvfreeclinic.org
+29,29,Chippewa Valley Technical College Dental Clinic,615 W Clairemont Ave,,Eau Claire,WI,54701,44.791617,-91.502917,Eau Claire,715-833-6271,https://www.cvtc.edu/about-cvtc/eau-claire-clairemont-campus/dental-clinic
+30,30,"Church Health Services, Inc.",115 N Center St,,Beaver Dam,WI,53916,43.457016,-88.838607,Dodge,920-887-1766,www.churchclinic.org
+31,31,City on a Hill Clinic,2224 W Kilbourn Ave,,Milwaukee,WI,53233,43.04175,-87.94073,Milwaukee,414-931-6670,www.cityonahillmilwaukee.org
+32,32,Community Connections Free Clinic,101 E Fountain St,,Dodgeville,WI,53533,42.958902,-90.130383,Iowa,608-930-2232,www.ccfcwi.org
+33,33,Community Dental Clinic,520 Handeyside Ln,,Fort Atkinson,WI,53538,42.934935,-88.829179,Jefferson,920-563-4372,http://communitydentalclinic.com/
+34,34,Community Outreach Health Clinic,WI80N8085 Town Hall Rd,,Menomonee Falls,WI,53051,43.16336,-88.132236,Waukesha,262-257-3394,www.froedterthealth.org/community-memorial/outreach-health-clinic
+35,35,Coventry Care,10547 Koessl Ln,,Sister Bay,WI,54234,45.183043,-87.127782,Door,920-854-4501,https://www.facebook.com/coventrycare/
+36,36,Door County Medical Center Dental Clinic,228 S 18th Ave,,Sturgeon Bay,WI,54235,44.833405,-87.350128,Door,920- 746-3788,http://dcmedical.org/Dental-Clinic
+37,37,Eagles Wing,225 Eagle Lake Ave,,Mukwonago,WI,53149,42.866144,-88.337494,Waukesha,262-385-9211,eagleswingfreeclinic.org
+38,38,First Presbyterian Church Free Clinic- expected to open Fall 2018!,406 Grant St,,Wausau,WI,54403,44.962646,-89.625839,Marathon,NA,NA
+39,39,Fowler Memorial Free Dental Clinic,N3150 State Road 81,,Monroe,WI,53566,42.62334,-89.658615,Green,608.328.9404,http://fowlerclinic.org/
+40,40,Free Clinic of Pierce St. Croix Counties,1687 E Division St,,River Falls,WI,54022,44.862709,-92.622379,Pierce & St. Croix,715-307-3948,www.freeclinicpiercestcroix.org
+41,41,Free Clinic of the Greater Menomonie Area Inc,2321 Stout Rd,,Menomonie,WI,54751,44.883234,-91.90087,Dunn,715-308-3808,www.menomoniefreeclinic.org
+42,42,Good Neighbor Clinic,95 Lincoln Ave,,Prairie Du Sac,WI,53578,43.28338,-89.721149,Sauk,608-643-4749,www.goodneighborclinic.org
+43,43,Greater Milwaukee Free Clinic,9330 W Lincoln Ave Ste 1,,West Allis,WI,53227,43.00295,-88.02937,Milwaukee,414-546-3733,www.greatermilwaukeefreeclinic.org
+44,44,Health Care Clinic of Ashland,313 3rd St W,,Ashland,WI,54806,46.589495,-90.885812,Ashland,715-682-9596,http://www.hcclinic.org
+45,45,Health Care Clinic of Superior Mariner Mall,"Mariner Mall, 69N 28th St East Suite 9",,Superior,WI,54880,46.707431,-92.073352,Douglas,715-394-4117,http://www.hcclinic.org
+46,46,Health Care Network Inc.,904 State St,,Racine,WI,53404,42.731847,-87.790542,Racine,262-632-2400,http://www.healthcarenetwork.org/
+47,47,HealthNet of Rock County Inc,23 W Milwaukee St Ste 201,,Janesville,WI,53548,42.682314,-89.024122,Rock,608-756-4638,www.healthnet-rock.org
+48,48,Hope Clinic & Care Center,2693 W Grand Chute Blvd,,Appleton,WI,54913,44.300801,-88.450324,Outagamie,920-968-0700,https://hopeclinic.care/
+49,49,Huiras Family Ozaukee Community Health Clinic,13111 N Port Washington Rd,,Mequon,WI,53097,43.256039,-87.928825,Ozaukee,262-243-7533,www.columbia-stmarys.org/huiras_ozaukee_health_clinic
+50,50,InHealth Community Wellness Free Clinic,109 E Bluff St,,Boscobel,WI,53805,43.13408,-90.7044,Grant,608-375-4324,www.inhealthcwc.com
+51,51,James Place,129 W Broadway,,Waukesha,WI,53186,43.01015,-88.228414,Waukesha,262.544.9472,http://www.elmbrook.org/james-place-waukesha/
+52,52,James Place Hope Street Ministry ,Hope Street Ministry 2522 West Capitol Dr,,Milwaukee,WI,53206,43.089932,-87.945404,Milwaukee,414.509.7710,http://www.elmbrook.org/james-place-26th-street/
+53,53,Lake Area Free Clinic,856 Armour Rd Ste B,,Oconomowoc,WI,53066,43.105051,-88.483489,Waukesha,262-569-4990,www.lakeareafreeclinic.org
+54,54,Madison Homeless Initiative- Area Cares Street Medicine Team,538 Charles Ln,,Madison,WI,53711,43.054215,-89.455221,Dane,608-442-1642,http://machonehealth.org/street-medicine/
+55,55,Marquette Community Clinic (PT Services),604 N 16th St Rm 215,,Milwaukee,WI,53233,43.037809,-87.932847,Milwaukee,414- 288-2121,
+56,56,Marquette Free Clinic for Women & Children,1821 N 16th St,,Milwaukee,WI,53205,43.054248,-87.93311,Milwaukee,414-755-6970,http://www.marquette.edu/nursing/clinic-for-women-and-children/
+57,57,McCannon Brown Homeless Sanctuary,PO Box 80165,,Milwaukee,WI,53208,43.048446,-87.956893,Milwaukee,414-559-6501,http://www.mbsanctuary.org/
+58,58,MEDic - Center for Families Pediatric Clinic,2120 Fordem Ave Ste 200,,Madison,WI,53704,43.100497,-89.364565,Dane,608-241-5150,https://www.med.wisc.edu/education/medic/clinics/#risepediatric
+59,59,MEDic - Grace Clinic,116 W Washington Ave,,Madison,WI,53705,43.07389,-89.38602,Dane,608- 265-4972,https://www.med.wisc.edu/education/medic/clinics/#grace
+60,60,MEDiC - Michele Tracy Preventative Health Clinic Porchlight Shelter ,306 N Brooks St,,Madison,WI,53705,43.07246,-89.402931,Dane,608-262-4204,https://www.med.wisc.edu/education/medic/clinics/#micheletracy
+61,61,MEDic - Safe Haven Mental Health Clinic,306 N Brooks St,,Madison,WI,53705,43.07246,-89.402931,Dane,608- 257-2534,https://www.med.wisc.edu/education/medic/clinics/#safehaven
+62,62,MEDic - Salvation Army Clinic,630 E Washington Ave,,Madison,WI,53705,43.079732,-89.378138,Dane,608- 256-4972,https://www.med.wisc.edu/education/medic/clinics/#salvationarmy
+63,63,MEDic - South Side Clinic Access Community Health Center,Access Community Health Center 2202 S Park St,,Madison,WI,53713,43.042327,-89.394457,Dane,608- 265-4972,https://www.med.wisc.edu/education/medic/clinics/#southside
+64,64,More Smiles Wisconsin,630 E Washington Ave,,Madison,WI,53703,43.079732,-89.378138,Dane,(608) 665-2752,https://www.moresmileswi.org/
+65,65,More Smiles Wisconsin,4619 Jenewein Rd,,Fitchburg,WI,53711,43.028404,-89.457706,Dane,(608) 665-2752,https://www.moresmileswi.org/
+66,66,Muslim Community & Health Center of WI,803 W Layton Ave,,Milwaukee,WI,53221,42.959063,-87.92226,Milwaukee,414 939-4411,www.mchcwi.org
+67,67,New Testament Church Free Clinic,10201 W Bradley Rd,,Milwaukee,WI,53224,43.162454,-88.036084,Milwaukee,414-365-1690,http://newtchurch.org/
+68,68,Open Arms Free Clinic Inc,205 Commerce Ct,,Elkhorn,WI,53121,42.652076,-88.540661,Walworth,262-949-2971,www.openarmsfreeclinic.org
+69,69,Open Door Free Clinic-Unity Church,1025 E Oklahoma Ave,,Milwaukee,WI,53207,42.98792,-87.8961,Milwaukee,414-481-1778,http://www.opendoorfreeclinic.org/index.html
+70,70,Our Lady of Hope Clinic Olde Towne Office Park,Olde Towne Office Park 6425 Odana Road Suite 3,,Madison,WI,53719,43.054189,-89.491099,Dane,608-819-8544,www.ourladyofhopeclinic.org
+71,71,Philippine Center Free Medical Clinic,3717 W Howard Ave,,Greenfield,WI,53221,42.972063,-87.961745,Milwaukee,414-342-1400,www.philippinecenter.com
+72,72,Pulmedix Respiratory Management Clinic,8532 W Capitol Dr Ste 201,,Milwaukee,WI,53222,43.090113,-88.019814,Milwaukee,414-397-6462,
+73,73,Repairers of the Breach Medical Clinic,1335 W Vliet St,,Milwaukee,WI,53205,43.048451,-87.92963,Milwaukee,414-342-1065,http://www.repairers.org/
+74,74,Rice Lake Area Free Clinic,1035 N Main St Ste G02,,Rice Lake,WI,54868,45.513533,-91.733277,Barron,715-736-3733,www.rlafc.org
+75,75,Richland Community Free Clinic,301 E 2nd St,,Richland Center,WI,53581,43.3391,-90.38216,Richland,608-647-6161,https://richlandmedctr.com/richland-community-free-clinic/
+76,76,Rock River Free Clinic,1541 Annex Rd,,Jefferson,WI,53549,42.989065,-88.826677,Jefferson,920-674-7442,https://www.rockriverfreeclinic.com/
+77,77,Ruby's Heart,210 E Park Ave,,Luck,WI,54853,45.571445,-92.478902,Polk,715-472-7770,http://myfreeclinic.org/
+78,78,Salvation Army Red Shield Clinic of Manitowoc,402 N 9th St,,Manitowoc,WI,54220,44.095688,-87.659506,Manitowoc,920-629-1819,https://www.facebook.com/SalvationArmyManitowocCounty/posts/514488818644983
+79,79,Salvation Army Homeless Clinic,1730 N 7th St,,Milwaukee,WI,53205,43.053547,-87.919674,Milwaukee,414-265-6360,http://www.samilwaukee.org/milwaukee/medical_clinic
+80,80,Samaritan Health Clinic - St. Agnes Hospital,430 E Division St,,Fond Du Lac,WI,54935,43.777826,-88.43103,Fond du Lac,920- 926-4841,https://www.agnesian.com/services/samaritan-health-clinic
+81,81,Saturday Clinic for the Uninsured,1121 E North Ave,,Milwaukee,WI,53212,43.059935,-87.89722,Milwaukee,414-588-2865,https://www.mcw.edu/Center-Healthy-Communities-Research/Saturday-Clinic-Uninsured.htm
+82,82,Seton Dental Clinic,1730 S 13th St,,Milwaukee,WI,53204,43.011584,-87.927751,Milwaukee,414-383-3220,http://www.columbia-stmarys.org/Ann_Seton_Dental
+83,83,Shalom Holistic Health Services,1116 Ridge St,,Stoughton,WI,53589,42.920622,-89.207472,Dane,608-205-0505,shalomclinic.org
+84,84,St Vincent de Paul Free Medical Clinic,149 N Central Ave,,Marshfield,WI,54449,44.66809,-90.17218,Wood,715- 387-0395,http://www.stvincentsmarshfield.org/pages/free-medical-clinic.php
+85,85,St. Ann Center for Intergenerational Care Medical Clinic Bucyrus Campus,2450 W North Ave,,Milwaukee,WI,53205,43.060734,-87.943952,Milwaukee,414-210-2430,www.stanncenter.org
+86,86,St. Ben's Clinic,1027 N 9th St,,Milwaukee,WI,53233,43.043665,-87.923439,Milwaukee,414-765-0606,www.columbia-stmarys.org/st_bens_clinic
+87,87,St. Clare Health Care,212 Xanadu Rd Apt 102,,Wisconsin Dells,WI,53965,43.58533,-89.7987,Adams,608-963-4191,
+88,88,St. Clare Health Mission,916 Ferry St,,La Crosse,WI,54601,43.805426,-91.243719,LaCrosse,608-791-9544,http://www.stclarehealthmission.org/
+89,89,St. Clare Health Mission of Sparta,310 W Main St,,Sparta,WI,54656,43.944611,-90.814676,Monroe,608-269-2132,
+90,90,St. Francis Community Free Walk-in Clinic,1062 N Koeller St,,Oshkosh,WI,54902,44.02949,-88.58154,Winnebago,920-231-2378,http://fathercarrs.org/free-clinic/
+91,91,St. Joseph’s Medical Clinic,826 N East Ave,,Waukesha,WI,53186,43.01211,-88.22687,Waukesha,262-544-6777,www.sjmdc.net
+92,92,St. Vincent de Paul Charitable Pharmacy,2033 Fish Hatchery Rd,,Madison,WI,53713,43.043234,-89.403164,Dane,608-268-0355,http://svdpmadison.org/need-assistance/pharmacy/
+93,93,St. Vincent de Paul Free Clinic,1004 E Main St,,Merrill,WI,54452,45.180533,-89.685525,Lincoln,715-539-9566,https://www.facebook.com/St-Vincent-de-Paul-Free-Clinic-1434134956638213/
+94,94,The Open Door Clinic Inc,PO Box 271,,Chippewa Falls,WI,54729,44.93756,-91.393142,Chippewa,715-720-1443,www.chippewaopendoor.org
+95,95,Touched Twice United Inc,PO Box 732,,Chippewa Falls,WI,54729,44.93756,-91.393142,Chippewa,715-379-0826,http://touchedtwiceunited.org/
+96,96,Tri-County Dental,9 Tri Park Way,,Appleton,WI,53094,44.280702,-88.453245,Outagamie,920-882-5500,https://www.tricountydental.org/
+97,97,Twin Counties Free Clinic,1301 Cheri Blvd # 116,,Marinette,WI,54143,45.073105,-87.622187,Marinette,715-732-1349,www.twincountiesfreeclinic.org
+98,98,UW - Milwaukee Silver Spring Community Nursing Center,5460 N 64th St Ste 143,,Milwaukee,WI,53218,43.117506,-87.990925,Milwaukee,414-535-0432,https://uwm.edu/nursing/community/silver-spring/
+99,99,UW-Milwaukee House of Peace Community Nursing Center,1702 W Walnut St,,Milwaukee,WI,53205,43.052797,-87.9341,Milwaukee,414-933-1590,http://uwm.edu/nursing/community/house-of-peace/
+100,100,Waukesha County Community Dental Clinic,N81W15062 Appleton Ave,,Menomonee Falls,WI,53151,43.165297,-88.096889,Waukesha,262-522-7645,http://www.wccdentalclinic.org/
+101,101,Waukesha County Community Dental Clinic,210 NW Barstow St,,Waukesha,WI,53188,43.014546,-88.232301,Waukesha,262-522-7645,http://www.wccdentalclinic.org/
+102,102,Watertown Area Cares Clinic,415 S 8th St,,Watertown,WI,53094,43.19038,-88.71696,Jefferson,920-206-7797,http://watertownareacaresclinic.org/

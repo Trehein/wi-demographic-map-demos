@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="./styles.css"></link>
+        <title>WI Extension Map</title>
+            <!-- Load Leaflet -->
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css" integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA==" crossorigin=""/>
+        <script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js" integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA==" crossorigin=""></script>
+
+    </head>
+    <body>
+        <div id="bigBox">
+            <div id="mapContainer">
+                <!-- <div id="mapBar"></div> -->
+                <div id="map"></div>
+            </div>
+            <div id="infoContainer">
+
+                <div class="grid-container">
+                    <div id="geoDropContainer">
+                        <select id="geoDrop">
+                            <option value="counties">Counties</option>
+                            <option value="tracts">Tracts</option>
+                        </select>
+                    </div>
+                    <div id="overlayDropContainer">
+                        <select id="overlayDrop">
+                            <option value="belowPovTotal"># Below Poverty</option>
+                            <option value="popCollegeHousingTotal"># College Housing</option>
+                            <option value="popNursingHomeTotal"># Nursing Home</option>
+                            <option value="popJuvDetTotal"># Juvenile Det.</option>
+                            <option value="popCorrectionalTotal"># Correctional Facility</option>
+                            <option value="noVehicleTotal"># No Vehicle</option>
+                            <option value="kitchenAccessPerc">% Kitchen Access</option>    
+                            <option value="mobileHomeTotal"># Mobile Home</option>    
+                            <option value="langEngLessThanWellPerc">% English Less Than Well</option>    
+                            <option value="popWithDisPerc">% With Disability</option>    
+                            <option value="popWithDisTotal"># With Disability</option>    
+                            <option value="popOver65Total"># Over 65</option>    
+                            <option value="popUnder18Total"># Under 18</option>    
+                            <option value="unemploymentOver16Perc">% Unemployed</option>    
+                            <option value="over25HSDiplomaPerc">% HS Graduate</option>    
+                            <option value="householdMedianIncome">Household Median Income</option>    
+                        </select>
+                    </div>
+
+                </div>
+
+
+
+                <div id=assetDropContainer>
+                    <form>
+                        <div class="multiselect">
+                            <div class="selectBox" onclick="showCheckboxes()">
+                                <select>
+                                    <option>Community Assets</option>
+                                </select>
+                                <div class="overSelect"></div>
+                            </div>
+                            <div id="checkboxes">
+                                <label class="checkbox">
+                                    <input type="checkbox" class="cb" id="cbFoodWIse" value="foodWIse" checked>
+                                    <span>FoodWIse</span>
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="cb" id="cbCommDev" value="foodWIse" checked>
+                                    <span>FoodWIse</span>
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="cb" id="cbFoodWIse" value="foodWIse" checked>
+                                    <span>FoodWIse</span>
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="cb" id="cbFoodWIse" value="foodWIse" checked>
+                                    <span>FoodWIse</span>
+                                </label>
+                                <label class="checkbox">
+                                    <input type="checkbox" class="cb" id="cbFoodWIse" value="foodWIse" checked>
+                                    <span>FoodWIse</span>
+                                </label>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+
+
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://d3js.org/topojson.v1.min.js"></script>
+
+        <script src="./data-functions.js"></script>
+        <script src="./color-functions.js"></script>
+        <!-- <script src="./legend-functions.js"></script> -->
+        <script src="./draw-map.js"></script>
+    </body>
+</html>
